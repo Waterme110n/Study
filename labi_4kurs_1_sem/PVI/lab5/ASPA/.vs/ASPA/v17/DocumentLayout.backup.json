@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACB781-B49A-469C-AC92-3AA6A32ACEFE}|Test_ASPA_005_3\\Test_ASPA_005_3.csproj|c:\\labi_4kurs_1sem\\pvi\\lab5\\aspa\\test_aspa_005_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACB781-B49A-469C-AC92-3AA6A32ACEFE}|Test_ASPA_005_3\\Test_ASPA_005_3.csproj|solutionrelative:test_aspa_005_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC8E9B8-B27E-4A70-8948-B0354761A19B}|ASPA_005_3\\ASPA_005_3.csproj|c:\\labi_4kurs_1sem\\pvi\\lab5\\aspa\\aspa_005_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC8E9B8-B27E-4A70-8948-B0354761A19B}|ASPA_005_3\\ASPA_005_3.csproj|solutionrelative:aspa_005_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1935ABB1-B788-4DD9-9FB1-3416F63776B4}|ASPA_005_2\\ASPA_005_2.csproj|c:\\labi_4kurs_1sem\\pvi\\lab5\\aspa\\aspa_005_2\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1935ABB1-B788-4DD9-9FB1-3416F63776B4}|ASPA_005_2\\ASPA_005_2.csproj|solutionrelative:aspa_005_2\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1935ABB1-B788-4DD9-9FB1-3416F63776B4}|ASPA_005_2\\ASPA_005_2.csproj|c:\\labi_4kurs_1sem\\pvi\\lab5\\aspa\\aspa_005_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1935ABB1-B788-4DD9-9FB1-3416F63776B4}|ASPA_005_2\\ASPA_005_2.csproj|solutionrelative:aspa_005_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37967C4-314E-47CF-AD2C-EF9F8C9EFFE0}|ASPA_005_1\\ASPA_005_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab5\\aspa\\aspa_005_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37967C4-314E-47CF-AD2C-EF9F8C9EFFE0}|ASPA_005_1\\ASPA_005_1.csproj|solutionrelative:aspa_005_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C7AFB-30C1-4E16-A745-7EF2BB41D09A}|DAL_004\\DAL_004.csproj|c:\\labi_4kurs_1sem\\pvi\\lab5\\aspa\\dal_004\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362C7AFB-30C1-4E16-A745-7EF2BB41D09A}|DAL_004\\DAL_004.csproj|solutionrelative:dal_004\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC8E9B8-B27E-4A70-8948-B0354761A19B}|ASPA_005_3\\ASPA_005_3.csproj|c:\\labi_4kurs_1sem\\pvi\\lab5\\aspa\\aspa_005_3\\aspa_005_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CC8E9B8-B27E-4A70-8948-B0354761A19B}|ASPA_005_3\\ASPA_005_3.csproj|solutionrelative:aspa_005_3\\aspa_005_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1935ABB1-B788-4DD9-9FB1-3416F63776B4}|ASPA_005_2\\ASPA_005_2.csproj|c:\\labi_4kurs_1sem\\pvi\\lab5\\aspa\\aspa_005_2\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1935ABB1-B788-4DD9-9FB1-3416F63776B4}|ASPA_005_2\\ASPA_005_2.csproj|solutionrelative:aspa_005_2\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\Test_ASPA_005_3\\Program.cs",
+              "RelativeDocumentMoniker": "Test_ASPA_005_3\\Program.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\Test_ASPA_005_3\\Program.cs",
+              "RelativeToolTip": "Test_ASPA_005_3\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA9wEwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T09:32:18.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\DAL_004\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL_004\\Repository.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\DAL_004\\Repository.cs",
+              "RelativeToolTip": "DAL_004\\Repository.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T05:40:38.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\ASPA_005_2\\Exceptions.cs",
+              "RelativeDocumentMoniker": "ASPA_005_2\\Exceptions.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\ASPA_005_2\\Exceptions.cs",
+              "RelativeToolTip": "ASPA_005_2\\Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T05:28:04.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ASPA_005_3.csproj",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\ASPA_005_3\\ASPA_005_3.csproj",
+              "RelativeDocumentMoniker": "ASPA_005_3\\ASPA_005_3.csproj",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\ASPA_005_3\\ASPA_005_3.csproj",
+              "RelativeToolTip": "ASPA_005_3\\ASPA_005_3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-26T15:55:18.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Filters.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\ASPA_005_2\\Filters.cs",
+              "RelativeDocumentMoniker": "ASPA_005_2\\Filters.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\ASPA_005_2\\Filters.cs",
+              "RelativeToolTip": "ASPA_005_2\\Filters.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA8wFEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:24:55.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\ASPA_005_2\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA_005_2\\Program.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\ASPA_005_2\\Program.cs",
+              "RelativeToolTip": "ASPA_005_2\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwFoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T14:29:15.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\ASPA_005_3\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA_005_3\\Program.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\ASPA_005_3\\Program.cs",
+              "RelativeToolTip": "ASPA_005_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T14:18:07.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\ASPA_005_1\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA_005_1\\Program.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab5\\ASPA\\ASPA_005_1\\Program.cs",
+              "RelativeToolTip": "ASPA_005_1\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T14:16:26.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

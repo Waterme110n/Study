@@ -1,0 +1,26 @@
+D:\Study\3 курс 2 семестр\ЗИ\laba_4\laba_4\laba_4\bin\Debug\netcoreapp3.1\laba_4.exe
+D:\Study\3 курс 2 семестр\ЗИ\laba_4\laba_4\laba_4\bin\Debug\netcoreapp3.1\laba_4.deps.json
+D:\Study\3 курс 2 семестр\ЗИ\laba_4\laba_4\laba_4\bin\Debug\netcoreapp3.1\laba_4.runtimeconfig.json
+D:\Study\3 курс 2 семестр\ЗИ\laba_4\laba_4\laba_4\bin\Debug\netcoreapp3.1\laba_4.runtimeconfig.dev.json
+D:\Study\3 курс 2 семестр\ЗИ\laba_4\laba_4\laba_4\bin\Debug\netcoreapp3.1\laba_4.dll
+D:\Study\3 курс 2 семестр\ЗИ\laba_4\laba_4\laba_4\bin\Debug\netcoreapp3.1\laba_4.pdb
+D:\Study\3 курс 2 семестр\ЗИ\laba_4\laba_4\laba_4\obj\Debug\netcoreapp3.1\laba_4.AssemblyInfoInputs.cache
+D:\Study\3 курс 2 семестр\ЗИ\laba_4\laba_4\laba_4\obj\Debug\netcoreapp3.1\laba_4.AssemblyInfo.cs
+D:\Study\3 курс 2 семестр\ЗИ\laba_4\laba_4\laba_4\obj\Debug\netcoreapp3.1\laba_4.csproj.CoreCompileInputs.cache
+D:\Study\3 курс 2 семестр\ЗИ\laba_4\laba_4\laba_4\obj\Debug\netcoreapp3.1\laba_4.dll
+D:\Study\3 курс 2 семестр\ЗИ\laba_4\laba_4\laba_4\obj\Debug\netcoreapp3.1\laba_4.pdb
+D:\Study\3 курс 2 семестр\ЗИ\laba_4\laba_4\laba_4\obj\Debug\netcoreapp3.1\laba_4.genruntimeconfig.cache
+D:\Study\3 курс 2 семестр\ЗИ\laba_4\laba_4\laba_4\obj\Debug\netcoreapp3.1\laba_4.csprojAssemblyReference.cache
+C:\labi_4kurs_1sem\Kripta\laba_4\laba_4\laba_4\bin\Debug\netcoreapp3.1\laba_4.exe
+C:\labi_4kurs_1sem\Kripta\laba_4\laba_4\laba_4\bin\Debug\netcoreapp3.1\laba_4.deps.json
+C:\labi_4kurs_1sem\Kripta\laba_4\laba_4\laba_4\bin\Debug\netcoreapp3.1\laba_4.runtimeconfig.json
+C:\labi_4kurs_1sem\Kripta\laba_4\laba_4\laba_4\bin\Debug\netcoreapp3.1\laba_4.runtimeconfig.dev.json
+C:\labi_4kurs_1sem\Kripta\laba_4\laba_4\laba_4\bin\Debug\netcoreapp3.1\laba_4.dll
+C:\labi_4kurs_1sem\Kripta\laba_4\laba_4\laba_4\bin\Debug\netcoreapp3.1\laba_4.pdb
+C:\labi_4kurs_1sem\Kripta\laba_4\laba_4\laba_4\obj\Debug\netcoreapp3.1\laba_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\labi_4kurs_1sem\Kripta\laba_4\laba_4\laba_4\obj\Debug\netcoreapp3.1\laba_4.AssemblyInfoInputs.cache
+C:\labi_4kurs_1sem\Kripta\laba_4\laba_4\laba_4\obj\Debug\netcoreapp3.1\laba_4.AssemblyInfo.cs
+C:\labi_4kurs_1sem\Kripta\laba_4\laba_4\laba_4\obj\Debug\netcoreapp3.1\laba_4.csproj.CoreCompileInputs.cache
+C:\labi_4kurs_1sem\Kripta\laba_4\laba_4\laba_4\obj\Debug\netcoreapp3.1\laba_4.dll
+C:\labi_4kurs_1sem\Kripta\laba_4\laba_4\laba_4\obj\Debug\netcoreapp3.1\laba_4.pdb
+C:\labi_4kurs_1sem\Kripta\laba_4\laba_4\laba_4\obj\Debug\netcoreapp3.1\laba_4.genruntimeconfig.cache

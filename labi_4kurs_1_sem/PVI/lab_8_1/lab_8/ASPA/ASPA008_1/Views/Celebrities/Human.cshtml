@@ -1,0 +1,41 @@
+﻿﻿@using DAL_Celebrity_MSSQL;
+@using System.Globalization;
+@using ASPA008_1.Helpers;
+@model ASPA008_1.Controllers.CelebritiesController.HumanModel;
+
+@{
+    Layout = "_CelebritiesLayout";
+    Celebrity celebrity = Model.celebrity;
+    Dictionary<string, string> references = Model.references ?? new Dictionary<string, string>();
+    string photopath = $"{Model.photosrequestpath}/{celebrity.ReqPhotoPath}";
+}
+
+@section subhead {
+}
+<div style="display:flex;background-color: #c59d67;">
+    <div class="celebrity-box">
+        @Html.CelebrityPhoto(celebrity.Id, celebrity.FullName, $"api/Celebrities/photo/{celebrity.ReqPhotoPath}")
+    </div>
+    <div class="celebrity-box">
+        <h2>@celebrity.FullName</h2>
+        @foreach (LifeEvent live in Model.lifeevents)
+        {
+            <p>@live.Date.ToString("dd.MM.yyyy", CultureInfo.InvariantCulture) @live.Description</p>
+        }
+        @if (references != null && references.Count > 0)
+        {
+            <h3>Wikipedia Articles:</h3>
+            @foreach (KeyValuePair<string, string> info in references)
+            {
+                <button type="button" class="btn btn-outline-primary mb-2" data-wiki-url="@info.Value" onclick="window.open(this.getAttribute('data-wiki-url'), '_blank');">@info.Key</button>
+            }
+        }
+    </div>
+
+    <a asp-action="Edit" asp-route-id="@celebrity.Id" class="btn btn-sm btn-warning">Edit</a>
+    <a asp-action="Delete" asp-route-id="@celebrity.Id" class="btn btn-sm btn-danger">Delete</a>
+</div>
+
+
+@section foot {
+}

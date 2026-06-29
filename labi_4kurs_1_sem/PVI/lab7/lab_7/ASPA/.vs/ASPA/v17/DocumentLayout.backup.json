@@ -1,0 +1,527 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\celebrity.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\celebrity.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\celebrity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\celebrity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\newcelebrity.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\newcelebrity.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\newcelebrity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\newcelebrity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\celebrities.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\celebrities.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\celebrities.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\celebrities.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\shared\\_celeblayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\shared\\_celeblayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\celebrities.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\celebrities.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\celebritiesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\celebritiesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\builderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\builderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A04EDE-5780-45F2-A9D5-FC862ADB82A1}|DAL_Celebrity\\DAL_Celebrity.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\dal_celebrity\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A04EDE-5780-45F2-A9D5-FC862ADB82A1}|DAL_Celebrity\\DAL_Celebrity.csproj|solutionrelative:dal_celebrity\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82F892-EC21-4491-BB46-263284D6F4DF}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\dal_celebrity_mssql\\celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82F892-EC21-4491-BB46-263284D6F4DF}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82F892-EC21-4491-BB46-263284D6F4DF}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\dal_celebrity_mssql\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82F892-EC21-4491-BB46-263284D6F4DF}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82F892-EC21-4491-BB46-263284D6F4DF}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\dal_celebrity_mssql\\celebritytitles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82F892-EC21-4491-BB46-263284D6F4DF}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\celebritytitles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\aspa007_1\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E07B51F4-C9A0-4D45-AD0C-A98167C236CB}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82F892-EC21-4491-BB46-263284D6F4DF}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\dal_celebrity_mssql\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82F892-EC21-4491-BB46-263284D6F4DF}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82F892-EC21-4491-BB46-263284D6F4DF}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\dal_celebrity_mssql\\lifeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82F892-EC21-4491-BB46-263284D6F4DF}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\lifeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82F892-EC21-4491-BB46-263284D6F4DF}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\dal_celebrity_mssql\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82F892-EC21-4491-BB46-263284D6F4DF}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82F892-EC21-4491-BB46-263284D6F4DF}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\labi_4kurs_1sem\\pvi\\lab7\\lab_7\\aspa\\dal_celebrity_mssql\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82F892-EC21-4491-BB46-263284D6F4DF}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:54:05.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:55:12.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Error.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T14:01:20.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T13:57:33.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T15:56:53.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:51:17.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T15:56:27.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T15:43:57.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T15:41:23.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-15T15:41:20.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T15:41:17.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Celebrities.cshtml",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Celebrities.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Celebrities.cshtml",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Celebrities.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Celebrities.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T15:35:57.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity_MSSQL\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Repository.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity_MSSQL\\Repository.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:21:27.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LifeEvent.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity_MSSQL\\LifeEvent.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\LifeEvent.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity_MSSQL\\LifeEvent.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\LifeEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:21:26.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Init.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity_MSSQL\\Init.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Init.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity_MSSQL\\Init.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:21:15.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity_MSSQL\\Context.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Context.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity_MSSQL\\Context.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Context.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:20:43.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CelebrityTitles.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity_MSSQL\\CelebrityTitles.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\CelebrityTitles.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity_MSSQL\\CelebrityTitles.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\CelebrityTitles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:20:40.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Celebrity.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity_MSSQL\\Celebrity.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Celebrity.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity_MSSQL\\Celebrity.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Celebrity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:20:39.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CelebritiesConfig.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\CelebritiesConfig.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\CelebritiesConfig.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\CelebritiesConfig.cs",
+              "RelativeToolTip": "ASPA007_1\\CelebritiesConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:18:25.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity\\DAL.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity\\DAL.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity\\DAL.cs",
+              "RelativeToolTip": "DAL_Celebrity\\DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:18:09.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Celebrities.cshtml.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Celebrities.cshtml.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Celebrities.cshtml.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Celebrities.cshtml.cs",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Celebrities.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:03:09.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Celebrity.cshtml.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Celebrity.cshtml.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Celebrity.cshtml.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Celebrity.cshtml.cs",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Celebrity.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:03:04.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewCelebrity.cshtml",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\NewCelebrity.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\NewCelebrity.cshtml",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\NewCelebrity.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\NewCelebrity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T14:48:16.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewCelebrity.cshtml.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\NewCelebrity.cshtml.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\NewCelebrity.cshtml.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\NewCelebrity.cshtml.cs",
+              "RelativeToolTip": "ASPA007_1\\Pages\\NewCelebrity.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:55:07.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BuilderHelper.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\BuilderHelper.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\BuilderHelper.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\BuilderHelper.cs",
+              "RelativeToolTip": "ASPA007_1\\BuilderHelper.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAwwJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T05:18:06.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Program.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Program.cs",
+              "RelativeToolTip": "ASPA007_1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:04:30.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Celebrity.cshtml",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Celebrity.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Celebrity.cshtml",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Celebrity.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Celebrity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T05:22:45.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Celebrities.config.json",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Celebrities.config.json",
+              "RelativeDocumentMoniker": "ASPA007_1\\Celebrities.config.json",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Celebrities.config.json",
+              "RelativeToolTip": "ASPA007_1\\Celebrities.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T05:03:58.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_CelebLayout.cshtml",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Shared\\_CelebLayout.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Shared\\_CelebLayout.cshtml",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\ASPA007_1\\Pages\\Shared\\_CelebLayout.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Shared\\_CelebLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T05:12:41.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity_MSSQL\\Exceptions.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Exceptions.cs",
+              "ToolTip": "C:\\labi_4kurs_1sem\\PVI\\lab7\\lab_7\\ASPA\\DAL_Celebrity_MSSQL\\Exceptions.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Exceptions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:47:34.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

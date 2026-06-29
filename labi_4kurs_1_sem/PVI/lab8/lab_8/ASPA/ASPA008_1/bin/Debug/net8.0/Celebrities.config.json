@@ -1,0 +1,9 @@
+{
+  "Celebrities": {
+    "PhotosRequestPath": "/Photos",
+    "PhotosFolder": "C:\\labi_4kurs_1sem\\PVI\\lab8\\lab_8\\ASPA\\ASPA008_1\\Photos",
+    "ConnectionString": "Server=WIN-Q0RIPORRGIF\\MSSQLSERVER02; Database=Lab6_Db; Trusted_Connection=true; TrustServerCertificate=Yes",
+    "CountryCodesPath": "C:\\labi_4kurs_1sem\\PVI\\lab8\\lab_8\\ASPA\\ASPA008_1\\CountryCodes\\Country_Codes.json"
+  }
+
+}

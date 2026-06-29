@@ -1,0 +1,11 @@
+/home/a/RiderProjects/ASPA003/DAL003/bin/Debug/net9.0/DAL003.deps.json
+/home/a/RiderProjects/ASPA003/DAL003/bin/Debug/net9.0/DAL003.dll
+/home/a/RiderProjects/ASPA003/DAL003/bin/Debug/net9.0/DAL003.pdb
+/home/a/RiderProjects/ASPA003/DAL003/obj/Debug/net9.0/DAL003.GeneratedMSBuildEditorConfig.editorconfig
+/home/a/RiderProjects/ASPA003/DAL003/obj/Debug/net9.0/DAL003.AssemblyInfoInputs.cache
+/home/a/RiderProjects/ASPA003/DAL003/obj/Debug/net9.0/DAL003.AssemblyInfo.cs
+/home/a/RiderProjects/ASPA003/DAL003/obj/Debug/net9.0/DAL003.csproj.CoreCompileInputs.cache
+/home/a/RiderProjects/ASPA003/DAL003/obj/Debug/net9.0/DAL003.dll
+/home/a/RiderProjects/ASPA003/DAL003/obj/Debug/net9.0/refint/DAL003.dll
+/home/a/RiderProjects/ASPA003/DAL003/obj/Debug/net9.0/DAL003.pdb
+/home/a/RiderProjects/ASPA003/DAL003/obj/Debug/net9.0/ref/DAL003.dll

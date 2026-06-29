@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Ссылка на DAL003 -->
+    <ProjectReference Include="..\DAL003\DAL003.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Копируем всю папку Celebrities в bin (и json, и фотки, и др. файлы) -->
+    <Content Include="Celebrities/**">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
+
