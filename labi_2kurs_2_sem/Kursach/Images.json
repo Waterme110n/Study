@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "image_name": "Image 4",
+      "image_paths_id": [10, 11],
+      "author_id": 177,
+      "descriptions": "Description for Image 1",
+      "style_id": 1,
+      "date_of_creation": 2022,
+      "size_id": 1,
+      "frame_id": 1,
+      "materials_id": 1
+    }
+  ]
+}

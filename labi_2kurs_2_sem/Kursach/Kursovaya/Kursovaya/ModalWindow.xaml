@@ -1,0 +1,57 @@
+﻿<Window x:Class="Kursovaya.ModalWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kursovaya"
+        mc:Ignorable="d"
+        Title="ModalWindow" Height="500" Width="820"
+        WindowStartupLocation="CenterScreen" 
+        DataContext="{Binding RelativeSource={RelativeSource Self}}">
+    <Window.Resources>
+        <FontFamily x:Key="Montserrat">/Montserrat_font/#Montserrat</FontFamily>
+    </Window.Resources>
+    <Grid >
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Offset="1" Color="#C7CFE2"/>
+                <GradientStop Offset="0" Color="#7686AB"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <ScrollViewer HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Disabled" Margin="20,0,0,0" Width="310" VerticalAlignment="Top" HorizontalAlignment="Left">
+            <ItemsControl ItemsSource="{Binding ImagePaths}" >
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Image Source="{Binding}" Width="230" Height="313" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="40,100,40,30"/>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Horizontal" />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+            </ItemsControl>
+        </ScrollViewer>
+
+        <TextBlock Text="{Binding ImageName}" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Bold" Height="91" VerticalAlignment="Top" Margin="353,12,254,0" TextWrapping="Wrap"/>
+        <TextBlock Text="{Binding AuthorName}" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Bold" Height="91" VerticalAlignment="Top" Margin="571,12,25,0"/>
+        <Button Margin="353,112,0,0" Width="133" Height="46" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Buy_Click" >
+            <TextBlock Text="BUY" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Regular" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        </Button>
+        <TextBlock Text="{Binding Descriptions}" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Regular" Height="66" VerticalAlignment="Top" Margin="353,184,45,0" TextWrapping="Wrap"/>
+        <TextBlock Text="Year of creation:" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Regular" Height="31" VerticalAlignment="Top" Margin="353,262,254,0"/>
+        <TextBlock Text="{Binding DateOfCreation}" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Regular" Height="31" VerticalAlignment="Top" Margin="578,262,124,0" RenderTransformOrigin="0.492,-1.192"/>
+        <TextBlock Text="Style:" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Regular" Height="31" VerticalAlignment="Top" Margin="353,293,254,0"/>
+        <TextBlock Text="{Binding StyleName}" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Regular" Height="31" VerticalAlignment="Top" Margin="439,293,35,0" RenderTransformOrigin="0.492,-1.192" Width="NaN"/>
+        <TextBlock Text="Size:" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Regular" Height="31" VerticalAlignment="Top" Margin="353,324,254,0"/>
+        <TextBlock Text="{Binding SizeValue}" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Regular" Height="31" VerticalAlignment="Top" Margin="430,324,171,0" RenderTransformOrigin="0.492,-1.192"/>
+        <TextBlock Text="Frame:" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Regular" Height="31" VerticalAlignment="Top" Margin="353,355,254,0"/>
+        <TextBlock Text="{Binding FrameType}" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Regular" Height="31" VerticalAlignment="Top" Margin="459,355,171,0" RenderTransformOrigin="0.492,-1.192"/>
+        <TextBlock Text="Material:" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Regular" Height="31" VerticalAlignment="Top" Margin="353,386,254,0"/>
+        <TextBlock Text="{Binding MaterialName}" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Regular" Height="31" VerticalAlignment="Top" Margin="476,386,154,0" RenderTransformOrigin="0.492,-1.192"/>
+
+
+
+    </Grid>
+</Window>

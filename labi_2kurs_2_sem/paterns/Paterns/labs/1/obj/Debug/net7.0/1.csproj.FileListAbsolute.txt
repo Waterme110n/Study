@@ -1,0 +1,43 @@
+C:\my\study\pp\labs\1\bin\Debug\net7.0\1.exe
+C:\my\study\pp\labs\1\bin\Debug\net7.0\1.deps.json
+C:\my\study\pp\labs\1\bin\Debug\net7.0\1.runtimeconfig.json
+C:\my\study\pp\labs\1\bin\Debug\net7.0\1.dll
+C:\my\study\pp\labs\1\bin\Debug\net7.0\1.pdb
+C:\my\study\pp\labs\1\obj\Debug\net7.0\1.csproj.AssemblyReference.cache
+C:\my\study\pp\labs\1\obj\Debug\net7.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\my\study\pp\labs\1\obj\Debug\net7.0\1.AssemblyInfoInputs.cache
+C:\my\study\pp\labs\1\obj\Debug\net7.0\1.AssemblyInfo.cs
+C:\my\study\pp\labs\1\obj\Debug\net7.0\1.csproj.CoreCompileInputs.cache
+C:\my\study\pp\labs\1\obj\Debug\net7.0\1.dll
+C:\my\study\pp\labs\1\obj\Debug\net7.0\refint\1.dll
+C:\my\study\pp\labs\1\obj\Debug\net7.0\1.pdb
+C:\my\study\pp\labs\1\obj\Debug\net7.0\1.genruntimeconfig.cache
+C:\my\study\pp\labs\1\obj\Debug\net7.0\ref\1.dll
+C:\my\study\design patterns\labs\1\bin\Debug\net7.0\1.exe
+C:\my\study\design patterns\labs\1\bin\Debug\net7.0\1.deps.json
+C:\my\study\design patterns\labs\1\bin\Debug\net7.0\1.runtimeconfig.json
+C:\my\study\design patterns\labs\1\bin\Debug\net7.0\1.dll
+C:\my\study\design patterns\labs\1\bin\Debug\net7.0\1.pdb
+C:\my\study\design patterns\labs\1\obj\Debug\net7.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\my\study\design patterns\labs\1\obj\Debug\net7.0\1.AssemblyInfoInputs.cache
+C:\my\study\design patterns\labs\1\obj\Debug\net7.0\1.AssemblyInfo.cs
+C:\my\study\design patterns\labs\1\obj\Debug\net7.0\1.csproj.CoreCompileInputs.cache
+C:\my\study\design patterns\labs\1\obj\Debug\net7.0\1.dll
+C:\my\study\design patterns\labs\1\obj\Debug\net7.0\refint\1.dll
+C:\my\study\design patterns\labs\1\obj\Debug\net7.0\1.pdb
+C:\my\study\design patterns\labs\1\obj\Debug\net7.0\1.genruntimeconfig.cache
+C:\my\study\design patterns\labs\1\obj\Debug\net7.0\ref\1.dll
+C:\my\study\design_patterns\labs\1\bin\Debug\net7.0\1.exe
+C:\my\study\design_patterns\labs\1\bin\Debug\net7.0\1.deps.json
+C:\my\study\design_patterns\labs\1\bin\Debug\net7.0\1.runtimeconfig.json
+C:\my\study\design_patterns\labs\1\bin\Debug\net7.0\1.dll
+C:\my\study\design_patterns\labs\1\bin\Debug\net7.0\1.pdb
+C:\my\study\design_patterns\labs\1\obj\Debug\net7.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\my\study\design_patterns\labs\1\obj\Debug\net7.0\1.AssemblyInfoInputs.cache
+C:\my\study\design_patterns\labs\1\obj\Debug\net7.0\1.AssemblyInfo.cs
+C:\my\study\design_patterns\labs\1\obj\Debug\net7.0\1.csproj.CoreCompileInputs.cache
+C:\my\study\design_patterns\labs\1\obj\Debug\net7.0\1.dll
+C:\my\study\design_patterns\labs\1\obj\Debug\net7.0\refint\1.dll
+C:\my\study\design_patterns\labs\1\obj\Debug\net7.0\1.pdb
+C:\my\study\design_patterns\labs\1\obj\Debug\net7.0\1.genruntimeconfig.cache
+C:\my\study\design_patterns\labs\1\obj\Debug\net7.0\ref\1.dll

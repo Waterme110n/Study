@@ -1,0 +1,11 @@
+C:\Users\Slava\Downloads\PP-2-2-main\lab05\lab05\Lab5Lib\bin\Debug\net7.0\Lab5Lib.deps.json
+C:\Users\Slava\Downloads\PP-2-2-main\lab05\lab05\Lab5Lib\bin\Debug\net7.0\Lab5Lib.dll
+C:\Users\Slava\Downloads\PP-2-2-main\lab05\lab05\Lab5Lib\bin\Debug\net7.0\Lab5Lib.pdb
+C:\Users\Slava\Downloads\PP-2-2-main\lab05\lab05\Lab5Lib\obj\Debug\net7.0\Lab5Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slava\Downloads\PP-2-2-main\lab05\lab05\Lab5Lib\obj\Debug\net7.0\Lab5Lib.AssemblyInfoInputs.cache
+C:\Users\Slava\Downloads\PP-2-2-main\lab05\lab05\Lab5Lib\obj\Debug\net7.0\Lab5Lib.AssemblyInfo.cs
+C:\Users\Slava\Downloads\PP-2-2-main\lab05\lab05\Lab5Lib\obj\Debug\net7.0\Lab5Lib.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Downloads\PP-2-2-main\lab05\lab05\Lab5Lib\obj\Debug\net7.0\Lab5Lib.dll
+C:\Users\Slava\Downloads\PP-2-2-main\lab05\lab05\Lab5Lib\obj\Debug\net7.0\refint\Lab5Lib.dll
+C:\Users\Slava\Downloads\PP-2-2-main\lab05\lab05\Lab5Lib\obj\Debug\net7.0\Lab5Lib.pdb
+C:\Users\Slava\Downloads\PP-2-2-main\lab05\lab05\Lab5Lib\obj\Debug\net7.0\ref\Lab5Lib.dll

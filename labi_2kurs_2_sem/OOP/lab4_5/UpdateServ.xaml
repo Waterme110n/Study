@@ -1,0 +1,52 @@
+﻿<Window x:Class="lab4_5.UpdateServ"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab4_5"
+        mc:Ignorable="d"
+        Title="CreateServ" Height="507" Width="800"
+        Cursor="{DynamicResource Kursor}">
+
+    <Window.Resources>
+        <Cursor x:Key="Kursor">C:\labi_2kurs_2_sem\OOP\lab4_5\Normal Select.cur</Cursor>
+    </Window.Resources>
+    <Grid Margin="0,0,0,-6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- Название услуги -->
+        <TextBlock Grid.Row="0" Text="Название услуги:" Margin="10" />
+        <TextBox Grid.Row="1" Margin="10" Name="name2"/>
+
+        <!-- Стоимость услуги -->
+        <TextBlock Grid.Row="2" Text="Стоимость услуги:" Margin="10" />
+        <TextBox Grid.Row="3" Margin="10" Name="cost2" />
+
+        <!-- Краткое описание услуги -->
+        <TextBlock Grid.Row="4" Text="Краткое описание услуги:" Margin="10" />
+        <TextBox Grid.Row="5" Margin="10,10,10,192" Name="description2" />
+
+        <!-- Изображение услуги -->
+        <Button Grid.Row="5" Content="Выбрать изображение" Margin="10,65,560,156" Name="AddPicture1" Click="AddPicture1_Click"/>
+
+        <!-- Кнопка добавления услуги -->
+        <Button Grid.Row="5" Content="Обновить информацию" Width="304" HorizontalAlignment="Left" Margin="10,254,0,-38" Name="updateService" Click="updateService_Click" />
+        <TextBlock Grid.Row="5" Text="Категория:" Margin="10,102,10,123" />
+        <TextBlock HorizontalAlignment="Center" Margin="0,151,0,0" Grid.Row="5" TextWrapping="Wrap" Text="Врач, ответственный за процедуру:" VerticalAlignment="Top" Width="778"/>
+        <TextBox HorizontalAlignment="Center" Margin="0,175,0,0" Grid.Row="5" TextWrapping="Wrap" VerticalAlignment="Top" Width="776" Name="doctor2"/>
+        <TextBlock HorizontalAlignment="Left" Margin="12,207,0,0" Grid.Row="5" TextWrapping="Wrap" Text="Кабинет:" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="78,207,0,0" Grid.Row="5" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name="cabinet2" />
+        <ComboBox HorizontalAlignment="Left" Margin="78,103,0,0" Grid.Row="5" VerticalAlignment="Top" Width="120" Name="category2">
+            <ComboBoxItem Content="{DynamicResource Cargiologia}" IsSelected="True" />
+            <ComboBoxItem Content="{DynamicResource Andocrinologi}" />
+            <ComboBoxItem Content="{DynamicResource Therapy}" />
+        </ComboBox>
+    </Grid>
+</Window>

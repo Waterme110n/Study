@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Цвет фона -->
+    <SolidColorBrush x:Key="BackgroundColor" Color="#C6C6C6" />
+
+    <!-- Цвет хедера -->
+    <SolidColorBrush x:Key="HeaderColor" Color="#6C6C6C" />
+
+    <!-- Цвет навигационной панели -->
+    <SolidColorBrush x:Key="NavPanelColor" Color="#949494" />
+
+</ResourceDictionary>

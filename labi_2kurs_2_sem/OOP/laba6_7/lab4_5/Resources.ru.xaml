@@ -1,0 +1,42 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="MainPageButtonText">Главная</system:String>
+    <system:String x:Key="ServicesButtonText">Услуги</system:String>
+    <system:String x:Key="AboutButtonText">О нас</system:String>
+    <system:String x:Key="DoctorsButtonText">Врачи</system:String>
+    <system:String x:Key="AdminPanelButtonText">Панель администратора</system:String>
+    <system:String x:Key="WelcomeText">Добро пожаловать в наш медицинский центр!</system:String>
+    <system:String x:Key="DescriptionText">В Клинике ГУРУ вы можете пройти диагностику и получить качественную консультацию высококвалифицированных специалистов. У нас Вы можете сдать все необходимые анализы и лабораторные исследования. Записаться на приём можно онлайн или по номеру телефона на нашем сайте.</system:String>
+    <system:String x:Key="SpecialOffersText">Выгодные спецпредложения и скидки для наших пациентов! Хотите узнать подробнее об условиях акций? Свяжитесь с нами по почте или телефону - проконсультируйтесь!</system:String>
+    <system:String x:Key="ChangeLanguageButtonText">язык</system:String>
+    <system:String x:Key="ServiceNameText">Название услуги:</system:String>
+    <system:String x:Key="ServiceCostText">Стоимость услуги:</system:String>
+    <system:String x:Key="ServiceDescriptionText">Краткое описание услуги:</system:String>
+    <system:String x:Key="SelectImageText">Выбрать изображение</system:String>
+    <system:String x:Key="AddServiceText">Добавить услугу</system:String>
+    <system:String x:Key="CategoryText">Категория:</system:String>
+    <system:String x:Key="AddCat">Добавить услугу</system:String>
+    <system:String x:Key="DelCat">Удалить услугу</system:String>
+    <system:String x:Key="Nazvanie">Введите название процедуры</system:String>
+    <system:String x:Key="DelProc">Удалить процедуру</system:String>
+    <system:String x:Key="OurProcedures">Наши процедуры</system:String>
+    <system:String x:Key="Filters">Фильтры</system:String>
+    <system:String x:Key="SearchText">Поиск</system:String>
+    <system:String x:Key="PriceText">Цена:</system:String>
+    <system:String x:Key="FromText">От:</system:String>
+    <system:String x:Key="ToText">До:</system:String>
+    <system:String x:Key="ApplyText">Применить</system:String>
+    <system:String x:Key="All">Все</system:String>
+    <system:String x:Key="Cargiologia">Кардиология</system:String>
+    <system:String x:Key="Andocrinologi">Эндокринология</system:String>
+    <system:String x:Key="Therapy">Терапия</system:String>
+    <system:String x:Key="DoctorForProcedure">Врач, ответсвенный за процедуру:</system:String>
+    <system:String x:Key="Cabinet">Кабинет:</system:String>
+    <system:String x:Key="Back">Назад</system:String>
+    <system:String x:Key="UpdateInfo">Обновить информацию</system:String>
+    <system:String x:Key="Defaulttheme">Стандартная тема</system:String>
+    <system:String x:Key="Darktheme">Тёмная тема</system:String>
+    <system:String x:Key="Greentheme">Зелёная тема</system:String>
+    <system:String x:Key="ChLang">Сменить язык</system:String>
+    <system:String x:Key="EditButtonContent">Редактировать</system:String>
+
+</ResourceDictionary>

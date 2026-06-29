@@ -1,0 +1,11 @@
+C:\my\study\design_patterns\labs\Lab5Lib\bin\Debug\net8.0\Lab5Lib.deps.json
+C:\my\study\design_patterns\labs\Lab5Lib\bin\Debug\net8.0\Lab5Lib.dll
+C:\my\study\design_patterns\labs\Lab5Lib\bin\Debug\net8.0\Lab5Lib.pdb
+C:\my\study\design_patterns\labs\Lab5Lib\obj\Debug\net8.0\Lab5Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\my\study\design_patterns\labs\Lab5Lib\obj\Debug\net8.0\Lab5Lib.AssemblyInfoInputs.cache
+C:\my\study\design_patterns\labs\Lab5Lib\obj\Debug\net8.0\Lab5Lib.AssemblyInfo.cs
+C:\my\study\design_patterns\labs\Lab5Lib\obj\Debug\net8.0\Lab5Lib.csproj.CoreCompileInputs.cache
+C:\my\study\design_patterns\labs\Lab5Lib\obj\Debug\net8.0\Lab5Lib.dll
+C:\my\study\design_patterns\labs\Lab5Lib\obj\Debug\net8.0\refint\Lab5Lib.dll
+C:\my\study\design_patterns\labs\Lab5Lib\obj\Debug\net8.0\Lab5Lib.pdb
+C:\my\study\design_patterns\labs\Lab5Lib\obj\Debug\net8.0\ref\Lab5Lib.dll

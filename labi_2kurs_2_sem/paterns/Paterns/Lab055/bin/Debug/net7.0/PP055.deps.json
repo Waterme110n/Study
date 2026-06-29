@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PP055/1.0.0": {
+        "dependencies": {
+          "Lab55Lib": "1.0.0"
+        },
+        "runtime": {
+          "PP055.dll": {}
+        }
+      },
+      "Lab55Lib/1.0.0": {
+        "runtime": {
+          "Lab55Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PP055/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab55Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

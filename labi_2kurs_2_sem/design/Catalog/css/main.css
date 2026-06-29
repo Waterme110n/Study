@@ -1,0 +1,502 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+div {
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  border: 0;
+}
+p {
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  border: 0;
+}
+.HeaderDIV{
+  z-index: 100;
+  position: sticky;
+  top: 0px;
+}
+.header-navbar {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 1920px;
+  height: 125px;
+  padding-right: 48px;
+  padding-left: 534px;
+  background: #9DABCB;
+}
+.navbar-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 83px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 86.54%;
+  height: 125px;
+}
+.primary-navigation-link {
+  flex: 0 0 auto;
+  font: 400 36px Montserrat, sans-serif;
+  color: rgba(0, 0, 0, 1);
+  white-space: pre-wrap;
+  text-decoration: none;
+  transition: all 1s ease-out;
+}
+.navbar-item {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 8.95%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.image-containercorzina {
+  box-sizing: border-box;
+  display: block;
+  width: 56px;
+  max-width: initial;
+  height: 56px;
+  clip-path: undefined;
+  border: none;
+  object-fit: cover;
+}
+.vertical-menu-icon-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  width: 4.51%;
+  padding-left: 15px;
+}
+.image-container1 {
+  box-sizing: border-box;
+  display: block;
+  width: 45px;
+  max-width: initial;
+  height: 41px;
+}
+.catalog-layout-styles {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        gap: 130px;
+        align-items: stretch;
+        justify-content: flex-start;
+        min-width: 1920px;
+        padding: 20px 19px 270px;
+      }
+      .catalog-breadcrumb-text-style {
+        flex: 0 0 auto;
+        font: 400 20px Montserrat, sans-serif;
+        color: rgba(0, 0, 0, 1);
+        white-space: pre-wrap;
+        opacity: 0.2;
+      }
+      .catalog-title-heading {
+        flex: 0 0 auto;
+        align-self: center;
+        margin-left: -42px;
+        font: 700 96px Montserrat, sans-serif;
+        color: rgba(34, 48, 79, 1);
+        white-space: pre-wrap;
+      }
+      .catalog-container {
+        display: flex;
+        flex: 0 0 auto;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: center;
+        margin-top: 17px;
+      }
+      .art-gallery-details-container {
+        flex: 0 0 auto;
+        padding-top: 50px;
+      }
+      .art-gallery-card {
+        box-sizing: border-box;
+        width: 330px;
+        padding: 15px;
+        border-radius: 20px;
+        background: linear-gradient(105.13deg, rgba(106, 125, 169, 1) 0%, rgba(199, 207, 226, 1) 150.36%);
+      }
+      .search-container1 {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        justify-content: flex-start;
+        width: 100%;
+        padding-top: 6px;
+        background: rgba(217, 217, 217, 1);
+        border-radius: 15px;
+      }
+      .search-container {
+        display: flex;
+        flex: 0 0 auto;
+        flex-direction: row;
+        gap: 0px;
+        align-items: center;
+        justify-content: space-between;
+        padding-right: 7px;
+        padding-left: 10px;
+      }
+      .search-heading-text-style {
+        flex: 0 0 auto;
+        font: 400 32px Montserrat, sans-serif;
+        color: rgba(0, 0, 0, 1);
+        white-space: pre-wrap;
+        opacity: 0.2;
+      }
+      .search-icon-container {
+        box-sizing: border-box;
+        display: block;
+        width: 28px;
+        max-width: initial;
+        height: 28px;
+        clip-path: undefined;
+        border: none;
+        object-fit: cover;
+        z-index: 1;
+      }
+      .buttSearch{
+        border: none;
+        background-color: rgba(217, 217, 217, 1) ;
+        z-index: 1;
+      }
+      .TextSearch{
+        border: none;
+        background-color: rgba(217, 217, 217, 1) ;
+        z-index: 1;
+        height: 26px;
+        font-size: 32px;
+        font-family: montserrat;
+        width: 240px;
+      }
+      input[type="search"]:focus {
+        outline: none; /* по хорошему тут нужно прописать альтернативный фон */
+      }
+      input[type="search"]::placeholder {
+        color: #656C7C  ;
+      }
+
+      .search-container2 {
+        box-sizing: border-box;
+        flex: 0 0 auto;
+        height: 21px;
+        margin-top: -12px;
+        background: rgba(217, 217, 217, 1);
+      }
+      .author-heading {
+        margin-top: 22px;
+        font: 500 36px Montserrat, sans-serif;
+        color: rgba(0, 0, 0, 1);
+        white-space: pre-wrap;
+      }
+      .artwork-details-section2 {
+        box-sizing: border-box;
+        width: 100%;
+      }
+      
+      .art-details-container {
+        box-sizing: border-box;
+        width: 100%;
+      }
+      .artwork-details-section {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: row;
+        gap: 8px;
+        align-items: flex-start;
+        justify-content: space-between;
+        width: 100%;
+      }
+      .artwork-details-container1 {
+        margin-top: -24px;
+      }
+      .artwork-details-section:first-child {
+        margin-top: 0px;
+      }
+      .artwork-details-container {
+        display: flex;
+        flex: 0 0 auto;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+      }
+      .svg-container {
+        display: flex;
+        flex: 0 0 auto;
+        width: 16px;
+        height: 16px;
+      }
+      /*text*/
+      .artwork-description-text-style {
+        flex: 0 0 auto;
+        padding: 15px 0;
+        margin-left: 9.5px;
+        font: 400 24px Montserrat, sans-serif;
+        color: rgba(0, 0, 0, 1);
+        white-space: pre-wrap;
+      }
+      input[type=checkbox] {
+        position: relative;
+        cursor: pointer;  
+        
+      }
+      input[type=checkbox]:before {
+          content: "";
+          display: block;
+          position: relative;
+          width: 16px;
+          height: 16px;
+          top: -5px;
+          left: -4px;
+          border: 1px solid #656C7C;
+          border-radius: 3px;
+          background-color: rgba(106, 125, 169, 1)
+        }
+        input[type=checkbox]:checked:after {
+          content: "";
+          display: block;
+          width: 5px;
+          height: 10px;
+          border: solid black;
+          border-width: 0 2px 2px 0;
+          -webkit-transform: rotate(45deg);
+          -ms-transform: rotate(45deg);
+          transform: rotate(45deg);
+          position: absolute;
+          top: -4px;
+          left: 2px;
+        }
+      .artwork-details-section1 {
+        flex: 0 0 auto;
+        padding-top: 50px;
+        font: 400 20px Montserrat, sans-serif;
+        color: rgba(0, 0, 0, 1);
+        white-space: pre-wrap;
+        opacity: 0.4;
+      }
+      .artistic-details-heading {
+        margin-top: 20px;
+        font: 500 36px Montserrat, sans-serif;
+        color: rgba(0, 0, 0, 1);
+        white-space: pre-wrap;
+      }
+      .art-gallery-grid {
+        display: flex;
+        flex: 0 0 auto;
+        flex-direction: column;
+        align-items: flex-end;
+        justify-content: flex-start;
+        margin-left: 47px;
+      }
+      .vertical-gallery-container {
+        flex: 0 0 auto;
+      }
+      .image-container-group {
+        display: flex;
+        flex-direction: row;
+        gap: 40px;
+        align-items: flex-start;
+        justify-content: flex-start;
+      }
+      .vertical-image-gallery-container {
+        margin-top: 37.54px;
+      }
+      .image-container-group:first-child {
+        margin-top: 0px;
+      }
+      .card-container {
+        box-sizing: border-box;
+        flex: 0 0 auto;
+        width: 265px;
+        box-shadow: 6px 6px 4px rgba(0, 0, 0, 0.25);
+      }
+      .image-container-with-padding {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 30px 30px 33px;
+        background: url("Kartina.jpg") no-repeat 50% / cover;
+        border: none;
+      }
+      .image-container {
+        box-sizing: border-box;
+        display: block;
+        max-width: initial;
+        height: 270px;
+        clip-path: undefined;
+        border: none;
+        object-fit: cover;
+      }
+      .image-container-style {
+        box-sizing: border-box;
+        display: block;
+        max-width: initial;
+        clip-path: undefined;
+        border: none;
+        object-fit: cover;
+      }
+      .hero-section {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 31px 30.5px 33px;
+        background: url("Kartina.jpg") no-repeat 50% / cover;
+        border: none;
+      }
+      .image-container-full-screen {
+        box-sizing: border-box;
+        display: block;
+        width: 100%;
+        max-width: initial;
+        clip-path: undefined;
+        border: none;
+        object-fit: cover;
+      }
+      .header-title-container {
+        box-sizing: border-box;
+        display: flex;
+        flex: 0 0 auto;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        max-width: initial;
+        height: 95px;
+        padding-top: 7px;
+        padding-right: 17px;
+        padding-left: 17px;
+        background: url("assets/div_1f0uhu4_6fa5e2.svg") no-repeat 50% / cover;
+      }
+      .sort-direction-indicator {
+        flex: 0 0 auto;
+        font: 700 96px Montserrat, sans-serif;
+        color: rgba(0, 0, 0, 1);
+        white-space: pre-wrap;
+      }
+      .main-heading-text-style {
+        flex: 0 0 auto;
+        padding-left: 48px;
+        margin-top: 44px;
+        font: 400 32px Montserrat, sans-serif;
+        color: rgba(0, 0, 0, 1);
+        white-space: pre-wrap;
+      }
+      .central-content-container {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        min-width: 1920px;
+      }
+      .header-section {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: row;
+        align-items: stretch;
+        justify-content: flex-start;
+        min-width: 932px;
+        padding-top: 68px;
+        padding-bottom: 61px;
+      }
+      .social-media-contact-info-container {
+        box-sizing: border-box;
+        flex: 0 0 auto;
+        width: 50%;
+        padding-bottom: 30px;
+      }
+      .social-media-heading {
+        font: 300 24px Montserrat, sans-serif;
+        color: rgba(0, 0, 0, 0.3);
+        white-space: pre-wrap;
+      }
+      .social-media-platform-list {
+        box-sizing: border-box;
+        width: 100%;
+        margin-top: 19px;
+      }
+      .social-media-platform-styler {
+        font: 300 48px Montserrat, sans-serif;
+        color: rgba(0, 0, 0, 1);
+        white-space: pre-wrap;
+      }
+      .vertical-spacing-text-style {
+        margin-top: 52px;
+      }
+      .social-media-platform-styler:first-child {
+        margin-top: 0px;
+      }
+      .contact-info-container {
+        box-sizing: border-box;
+        display: flex;
+        flex: 0 0 auto;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        width: 50%;
+        gap: 30px ;
+      }
+      .contact-info-section2 {
+        flex: 0 0 auto;
+        margin-left: 172px;
+        font: 300 24px Montserrat, sans-serif;
+        color: rgba(0, 0, 0, 1);
+        text-align: center;
+      }
+      .contact-info-section2 p, .contact-info-section p{
+        font: 300 24px Montserrat, sans-serif;
+      }
+      .card-details {
+        font: 300 24px Montserrat, sans-serif;
+        color: rgba(0, 0, 0, 0.3);
+        text-align: center;
+        width: auto;
+      }
+      .contact-info-section {
+        flex: 0 0 auto;
+        margin-top: 34px;
+        margin-left: 176px;
+        font: 300 24px Montserrat, sans-serif;
+        color: rgba(0, 0, 0, 1);
+        text-align: center;
+      }
+      .contact-info-section1 {
+        flex: 0 0 auto;
+        margin-top: 47px;
+        margin-left: 178px;
+        font: 300 24px Montserrat, sans-serif;
+        color: rgba(0, 0, 0, 1);
+        text-align: center;
+      }
+      .LastFooter{
+        background-color: #9DABCB;
+        height: 125px;
+        width: 1920px;
+      }
+      .podset{
+        color: black;
+        text-decoration: none;
+      }
+      .podset:active{
+        color: #22304F;
+      }

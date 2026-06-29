@@ -1,0 +1,54 @@
+C:\my\study\design_patterns\Lab055\obj\Debug\net7.0\PP055.GeneratedMSBuildEditorConfig.editorconfig
+C:\my\study\design_patterns\Lab055\obj\Debug\net7.0\PP055.AssemblyInfoInputs.cache
+C:\my\study\design_patterns\Lab055\obj\Debug\net7.0\PP055.AssemblyInfo.cs
+C:\my\study\design_patterns\Lab055\obj\Debug\net7.0\PP055.csproj.CoreCompileInputs.cache
+C:\my\study\design_patterns\Lab055\bin\Debug\net7.0\PP055.exe
+C:\my\study\design_patterns\Lab055\bin\Debug\net7.0\PP055.deps.json
+C:\my\study\design_patterns\Lab055\bin\Debug\net7.0\PP055.runtimeconfig.json
+C:\my\study\design_patterns\Lab055\bin\Debug\net7.0\PP055.dll
+C:\my\study\design_patterns\Lab055\bin\Debug\net7.0\PP055.pdb
+C:\my\study\design_patterns\Lab055\bin\Debug\net7.0\Lab55Lib.dll
+C:\my\study\design_patterns\Lab055\bin\Debug\net7.0\Lab55Lib.pdb
+C:\my\study\design_patterns\Lab055\obj\Debug\net7.0\PP055.csproj.AssemblyReference.cache
+C:\my\study\design_patterns\Lab055\obj\Debug\net7.0\PP055.csproj.Up2Date
+C:\my\study\design_patterns\Lab055\obj\Debug\net7.0\PP055.dll
+C:\my\study\design_patterns\Lab055\obj\Debug\net7.0\refint\PP055.dll
+C:\my\study\design_patterns\Lab055\obj\Debug\net7.0\PP055.pdb
+C:\my\study\design_patterns\Lab055\obj\Debug\net7.0\PP055.genruntimeconfig.cache
+C:\my\study\design_patterns\Lab055\obj\Debug\net7.0\ref\PP055.dll
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\bin\Debug\net7.0\PP055.exe
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\bin\Debug\net7.0\PP055.deps.json
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\bin\Debug\net7.0\PP055.runtimeconfig.json
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\bin\Debug\net7.0\PP055.dll
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\bin\Debug\net7.0\PP055.pdb
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\bin\Debug\net7.0\Lab55Lib.dll
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\bin\Debug\net7.0\Lab55Lib.pdb
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\obj\Debug\net7.0\PP055.csproj.AssemblyReference.cache
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\obj\Debug\net7.0\PP055.GeneratedMSBuildEditorConfig.editorconfig
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\obj\Debug\net7.0\PP055.AssemblyInfoInputs.cache
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\obj\Debug\net7.0\PP055.AssemblyInfo.cs
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\obj\Debug\net7.0\PP055.csproj.CoreCompileInputs.cache
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\obj\Debug\net7.0\PP055.csproj.Up2Date
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\obj\Debug\net7.0\PP055.dll
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\obj\Debug\net7.0\refint\PP055.dll
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\obj\Debug\net7.0\PP055.pdb
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\obj\Debug\net7.0\PP055.genruntimeconfig.cache
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab055\obj\Debug\net7.0\ref\PP055.dll
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\bin\Debug\net7.0\PP055.exe
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\bin\Debug\net7.0\PP055.deps.json
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\bin\Debug\net7.0\PP055.runtimeconfig.json
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\bin\Debug\net7.0\PP055.dll
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\bin\Debug\net7.0\PP055.pdb
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\bin\Debug\net7.0\Lab55Lib.dll
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\bin\Debug\net7.0\Lab55Lib.pdb
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\obj\Debug\net7.0\PP055.csproj.AssemblyReference.cache
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\obj\Debug\net7.0\PP055.GeneratedMSBuildEditorConfig.editorconfig
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\obj\Debug\net7.0\PP055.AssemblyInfoInputs.cache
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\obj\Debug\net7.0\PP055.AssemblyInfo.cs
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\obj\Debug\net7.0\PP055.csproj.CoreCompileInputs.cache
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\obj\Debug\net7.0\PP055.csproj.Up2Date
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\obj\Debug\net7.0\PP055.dll
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\obj\Debug\net7.0\refint\PP055.dll
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\obj\Debug\net7.0\PP055.pdb
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\obj\Debug\net7.0\PP055.genruntimeconfig.cache
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab055\obj\Debug\net7.0\ref\PP055.dll

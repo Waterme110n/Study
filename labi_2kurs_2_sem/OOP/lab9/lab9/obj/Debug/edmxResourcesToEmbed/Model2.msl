@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище AirplaneDBModelContainer" CdmEntityContainer="AirplaneDBEntities">
+    <EntitySetMapping Name="C__MigrationHistory">
+      <EntityTypeMapping TypeName="AirplaneDBModel.C__MigrationHistory">
+        <MappingFragment StoreEntitySet="__MigrationHistory">
+          <ScalarProperty Name="MigrationId" ColumnName="MigrationId" />
+          <ScalarProperty Name="ContextKey" ColumnName="ContextKey" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="ProductVersion" ColumnName="ProductVersion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Airplanes">
+      <EntityTypeMapping TypeName="AirplaneDBModel.Airplanes">
+        <MappingFragment StoreEntitySet="Airplanes">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="PassengerSeats" ColumnName="PassengerSeats" />
+          <ScalarProperty Name="YearOfManufacture" ColumnName="YearOfManufacture" />
+          <ScalarProperty Name="CargoCapacity" ColumnName="CargoCapacity" />
+          <ScalarProperty Name="LastMaintenanceDate" ColumnName="LastMaintenanceDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CrewMembers">
+      <EntityTypeMapping TypeName="AirplaneDBModel.CrewMembers">
+        <MappingFragment StoreEntitySet="CrewMembers">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="Position" ColumnName="Position" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="Experience" ColumnName="Experience" />
+          <ScalarProperty Name="AirplaneID" ColumnName="AirplaneID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

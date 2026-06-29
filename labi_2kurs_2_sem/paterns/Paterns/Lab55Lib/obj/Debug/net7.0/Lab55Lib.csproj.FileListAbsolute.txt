@@ -1,0 +1,33 @@
+C:\my\study\design_patterns\Lab55Lib\bin\Debug\net7.0\Lab55Lib.deps.json
+C:\my\study\design_patterns\Lab55Lib\bin\Debug\net7.0\Lab55Lib.dll
+C:\my\study\design_patterns\Lab55Lib\bin\Debug\net7.0\Lab55Lib.pdb
+C:\my\study\design_patterns\Lab55Lib\obj\Debug\net7.0\Lab55Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\my\study\design_patterns\Lab55Lib\obj\Debug\net7.0\Lab55Lib.AssemblyInfoInputs.cache
+C:\my\study\design_patterns\Lab55Lib\obj\Debug\net7.0\Lab55Lib.AssemblyInfo.cs
+C:\my\study\design_patterns\Lab55Lib\obj\Debug\net7.0\Lab55Lib.csproj.CoreCompileInputs.cache
+C:\my\study\design_patterns\Lab55Lib\obj\Debug\net7.0\Lab55Lib.dll
+C:\my\study\design_patterns\Lab55Lib\obj\Debug\net7.0\refint\Lab55Lib.dll
+C:\my\study\design_patterns\Lab55Lib\obj\Debug\net7.0\Lab55Lib.pdb
+C:\my\study\design_patterns\Lab55Lib\obj\Debug\net7.0\ref\Lab55Lib.dll
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab55Lib\bin\Debug\net7.0\Lab55Lib.deps.json
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab55Lib\bin\Debug\net7.0\Lab55Lib.dll
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab55Lib\bin\Debug\net7.0\Lab55Lib.pdb
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab55Lib\obj\Debug\net7.0\Lab55Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab55Lib\obj\Debug\net7.0\Lab55Lib.AssemblyInfoInputs.cache
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab55Lib\obj\Debug\net7.0\Lab55Lib.AssemblyInfo.cs
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab55Lib\obj\Debug\net7.0\Lab55Lib.csproj.CoreCompileInputs.cache
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab55Lib\obj\Debug\net7.0\Lab55Lib.dll
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab55Lib\obj\Debug\net7.0\refint\Lab55Lib.dll
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab55Lib\obj\Debug\net7.0\Lab55Lib.pdb
+C:\labi_2kurs_2_sem\paterns\Новая папка\Lab55Lib\obj\Debug\net7.0\ref\Lab55Lib.dll
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab55Lib\bin\Debug\net7.0\Lab55Lib.deps.json
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab55Lib\bin\Debug\net7.0\Lab55Lib.dll
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab55Lib\bin\Debug\net7.0\Lab55Lib.pdb
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab55Lib\obj\Debug\net7.0\Lab55Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab55Lib\obj\Debug\net7.0\Lab55Lib.AssemblyInfoInputs.cache
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab55Lib\obj\Debug\net7.0\Lab55Lib.AssemblyInfo.cs
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab55Lib\obj\Debug\net7.0\Lab55Lib.csproj.CoreCompileInputs.cache
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab55Lib\obj\Debug\net7.0\Lab55Lib.dll
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab55Lib\obj\Debug\net7.0\refint\Lab55Lib.dll
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab55Lib\obj\Debug\net7.0\Lab55Lib.pdb
+C:\labi_2kurs_2_sem\paterns\Paterns\Lab55Lib\obj\Debug\net7.0\ref\Lab55Lib.dll

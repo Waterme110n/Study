@@ -1,0 +1,11 @@
+C:\my\study\design_patterns\labs\Lec04LibN\bin\Debug\net8.0\Lec04LibN.deps.json
+C:\my\study\design_patterns\labs\Lec04LibN\bin\Debug\net8.0\Lec04LibN.dll
+C:\my\study\design_patterns\labs\Lec04LibN\bin\Debug\net8.0\Lec04LibN.pdb
+C:\my\study\design_patterns\labs\Lec04LibN\obj\Debug\net8.0\Lec04LibN.GeneratedMSBuildEditorConfig.editorconfig
+C:\my\study\design_patterns\labs\Lec04LibN\obj\Debug\net8.0\Lec04LibN.AssemblyInfoInputs.cache
+C:\my\study\design_patterns\labs\Lec04LibN\obj\Debug\net8.0\Lec04LibN.AssemblyInfo.cs
+C:\my\study\design_patterns\labs\Lec04LibN\obj\Debug\net8.0\Lec04LibN.csproj.CoreCompileInputs.cache
+C:\my\study\design_patterns\labs\Lec04LibN\obj\Debug\net8.0\Lec04LibN.dll
+C:\my\study\design_patterns\labs\Lec04LibN\obj\Debug\net8.0\refint\Lec04LibN.dll
+C:\my\study\design_patterns\labs\Lec04LibN\obj\Debug\net8.0\Lec04LibN.pdb
+C:\my\study\design_patterns\labs\Lec04LibN\obj\Debug\net8.0\ref\Lec04LibN.dll

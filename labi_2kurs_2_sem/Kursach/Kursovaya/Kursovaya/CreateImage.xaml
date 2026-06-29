@@ -1,0 +1,79 @@
+﻿<Window x:Class="Kursovaya.CreateImage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kursovaya"
+        mc:Ignorable="d"
+        Title="CreateImage" Height="750" Width="1000"
+        WindowStartupLocation="CenterScreen" >
+    <Window.Resources>
+        <FontFamily x:Key="Montserrat">/Montserrat_font/#Montserrat</FontFamily>
+    </Window.Resources>
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Offset="1" Color="#C7CFE2"/>
+                <GradientStop Offset="0" Color="#7686AB"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <TextBlock Text="CREATE" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="{StaticResource Montserrat}" FontSize="36" FontWeight="Bold" Margin="0,30,0,30" Foreground="#FF22304F"/>
+
+        <TextBlock Text="Images: " FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Medium" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="140,100,0,0"/>
+        <TextBlock  Name="images_id_paths" Text=""  FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Light"  Width="300"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="140,130,0,0" TextWrapping="Wrap" Background="#FFC6CFE4" Height="29" />
+
+        <Button Click="GoToImages" Background="#FFC6CFE4" BorderBrush="#FFC6CFE4" Foreground="{x:Null}" Width="30" Height="29" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="440,130,0,0" >
+            <Image Source="C:\labi_2kurs_2_sem\Kursach\Kursovaya\Kursovaya\images\plus.png"  Width="15" />
+        </Button>
+
+        <ScrollViewer VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Visible" Margin="140,0,0,120"  Width="330" VerticalAlignment="Bottom" HorizontalAlignment="Left">
+            <ItemsControl x:Name="imagePathsListView"  Background="{x:Null}" Width="auto" Height="auto" >
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel Orientation="Horizontal" />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Image Source="{Binding ImagePath}" Width="250" Margin="40,0,40,40"/>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+
+        <TextBlock Text="Name: " FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Medium" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,100,0,0"/>
+        <TextBox Text="" Name="TextboxName" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Light"  Width="300"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,130,0,0" TextWrapping="Wrap" Background="#FFC6CFE4" BorderBrush="#19000000" SelectionBrush="{x:Null}"/>
+
+        <TextBlock Text="Description: " FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Medium" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,170,0,0"/>
+        <TextBox Text="" Name="TextboxDesc" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Light"  Width="300"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,200,0,0" TextWrapping="Wrap" Background="#FFC6CFE4" BorderBrush="#19000000" SelectionBrush="{x:Null}" Height="31.2"/>
+
+            <TextBlock Text="Date of creation: " FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Medium" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,240,0,0"/>
+            <Slider x:Name="slider" Minimum="1600" Maximum="2024" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,270,0,0" Width="300" />
+            <TextBlock Text="1600" FontSize="16"  FontFamily="{StaticResource Montserrat}" FontWeight="Medium" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,290,0,0"/>
+            <TextBlock Text="2024" FontSize="16"  FontFamily="{StaticResource Montserrat}" FontWeight="Medium" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="795 ,290,0,0"/>
+            <TextBlock FontSize="16" FontFamily="{StaticResource Montserrat}" FontWeight="Medium" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="667,290,0,0">
+                <Run Text="{Binding ElementName=slider, Path=Value, StringFormat='{}{0:F0}'}" />
+            </TextBlock>
+
+            <TextBlock Text="Style: " FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Medium" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,320,0,0"/>
+        <ComboBox x:Name="StyleComboBox" SelectedIndex="0" Text=""  FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Light"  Width="300"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,350,0,0"  Background="#FFC6CFE4" BorderBrush="#19000000" ></ComboBox>
+
+        <TextBlock Text="Size: " FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Medium" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,390,0,0"/>
+        <ComboBox x:Name="SizeComboBox" SelectedIndex="0" Text=""  FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Light"  Width="300"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,420,0,0"  Background="#FFC6CFE4" BorderBrush="#19000000" ></ComboBox>
+
+        <TextBlock Text="Frames: " FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Medium" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,460,0,0"/>
+        <ComboBox x:Name="FrameComboBox" SelectedIndex="0" Text=""  FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Light"  Width="300"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,490,0,0"  Background="#FFC6CFE4" BorderBrush="#19000000" ></ComboBox>
+
+        <TextBlock Text="Materials: " FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Medium" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,530,0,0"/>
+        <ComboBox x:Name="MaterialComboBox" SelectedIndex="0" Text=""  FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Light"  Width="300"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,560,0,0"  Background="#FFC6CFE4" BorderBrush="#19000000" ></ComboBox>
+
+        <Button Click="ClosedClick" Width="140"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="540,620,0,0"  Background="#FF8692AD" BorderBrush="#19000000">
+            <TextBlock Text="Back" FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Medium"></TextBlock>
+        </Button>
+        
+        <Button Click="CreateClick" Width="140"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="700,620,0,0"  Background="#FFCED8F1" BorderBrush="#19000000">
+            <TextBlock Text="Create"  FontSize="24"  FontFamily="{StaticResource Montserrat}" FontWeight="Medium"></TextBlock>
+        </Button>
+    </Grid>
+</Window>

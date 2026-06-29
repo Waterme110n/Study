@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище AirplaneDBModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="__MigrationHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+      <PropertyRef Name="ContextKey" />
+    </Key>
+    <Property Name="MigrationId" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="ContextKey" Type="nvarchar" MaxLength="300" Nullable="false" />
+    <Property Name="Model" Type="varbinary(max)" Nullable="false" />
+    <Property Name="ProductVersion" Type="nvarchar" MaxLength="32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Airplanes">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Type" Type="nvarchar(max)" />
+    <Property Name="Model" Type="nvarchar(max)" />
+    <Property Name="PassengerSeats" Type="int" Nullable="false" />
+    <Property Name="YearOfManufacture" Type="int" Nullable="false" />
+    <Property Name="CargoCapacity" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="LastMaintenanceDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CrewMembers">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="FullName" Type="nvarchar(max)" />
+    <Property Name="Position" Type="nvarchar(max)" />
+    <Property Name="Age" Type="int" Nullable="false" />
+    <Property Name="Experience" Type="int" Nullable="false" />
+    <Property Name="AirplaneID" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_dbo_CrewMembers_dbo_Airplanes_AirplaneID">
+    <End Role="Airplanes" Type="Self.Airplanes" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="CrewMembers" Type="Self.CrewMembers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Airplanes">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="CrewMembers">
+        <PropertyRef Name="AirplaneID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище AirplaneDBModelContainer">
+    <EntitySet Name="__MigrationHistory" EntityType="Self.__MigrationHistory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Airplanes" EntityType="Self.Airplanes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CrewMembers" EntityType="Self.CrewMembers" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_dbo_CrewMembers_dbo_Airplanes_AirplaneID" Association="Self.FK_dbo_CrewMembers_dbo_Airplanes_AirplaneID">
+      <End Role="Airplanes" EntitySet="Airplanes" />
+      <End Role="CrewMembers" EntitySet="CrewMembers" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

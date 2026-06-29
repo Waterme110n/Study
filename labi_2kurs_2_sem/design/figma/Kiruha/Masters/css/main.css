@@ -1,0 +1,706 @@
+body{
+    overflow-x:hidden;
+    font-family: Arial, Helvetica, sans-serif; 
+    margin: 0;
+    padding: 0;
+}
+.header-navbar {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 1920px;
+    height: 73px;
+    padding-right: 13px;
+    padding-left: 614px;
+    background: #7a685b;
+  }
+  .navbar-links-container {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    gap: 45px;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .header-link {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    font: 600 15px "Open Sans", sans-serif;
+    color: white;
+    text-transform: uppercase;
+    white-space: pre-wrap;
+  }
+  .appointment-section {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-right: 20px;
+  }
+  .svg-container {
+    display: flex;
+    flex: 0 0 auto;
+    width: 32px;
+    height: 32px;
+  }
+  .appointment-button {
+    box-sizing: border-box;
+    display: block;
+    flex: 0 0 auto;
+    width: 134px;
+    min-width: 134px;
+    height: 47px;
+    margin-left: 12.5px;
+    font: 400 15px Helvetica;
+    color: white;
+    cursor: pointer;
+    background: #a68b80;
+    border: none;
+    border-radius: 13px;
+  }
+
+
+.flex-container {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    min-width: 1920px;
+    padding: 9.5px 9px 376px;
+    background: linear-gradient(150deg,#FFE8D8, #FFFFFF);
+  }
+  .tattoo-artists-section {
+    display: flex;
+    flex: 1 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+  }
+  .main-masters {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    font: 400 12px Helvetica;
+    color: #7a685b;
+    white-space: pre-wrap;
+    opacity: 0.2;
+  }
+  .zag{
+    text-align: center;
+    font-size: 64px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .p_zag{
+    text-align: center;
+    font-size: 18px;
+    color: #99938F;
+    font-weight: light;
+  }
+  .unique-tattoo-artists-list {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    margin-top: 200px;
+  }
+  .unique-tattoo-artists-section {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    gap: 88px;
+    align-items: flex-start;
+    align-self: center;
+    justify-content: space-between;
+    min-width: 1352px;
+  }
+  .tattoo-artist-profile {
+    box-sizing: border-box;
+    display: flex;
+    flex: 1 1 0;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    max-width: 272px;
+    padding: 11px 10px;
+    background: #ffefe4;
+    border-radius: 35px 35px 15px 15px;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.25);
+  }
+  .profile-card {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+  }
+  .profile-image-container {
+    box-sizing: border-box;
+    display: block;
+    flex: 0 0 auto;
+    max-width: initial;
+    height: 250px;
+    border: none;
+    border-radius: 30px;
+    object-fit: cover;
+  }
+  .name-tag-text-style {
+    flex: 0 0 auto;
+    align-self: center;
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+    font: 400 20px Helvetica;
+    color: black;
+    white-space: pre-wrap;
+  }
+  .unique-detail-paragraph {
+    flex: 0 0 auto;
+    align-self: center;
+    padding: 0;
+    margin: 0;
+    margin-top: 33px;
+    font: 400 15px/19px Helvetica;
+    color: black;
+    text-align: center;
+    white-space: pre-wrap;
+  }
+  .unique-button-style {
+    box-sizing: border-box;
+    display: block;
+    flex: 0 0 auto;
+    min-width: 250px;
+    height: 48px;
+    margin-top: 44px;
+    font: 400 14px Helvetica;
+    color: black;
+    cursor: pointer;
+    background: #dbc6b8;
+    border: none;
+    border-radius: 13px;
+  }
+  .tattoo-artist-gallery1 {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    margin-top: 251px;
+  }
+  .tattoo-artist-gallery {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 160px;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .tattoo-studio-layout {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    min-width: 1620px;
+  }
+  .tattoo-artist-profile-card {
+    flex: 0 0 auto;
+    padding-bottom: 201px;
+  }
+  .tattoo-card {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    width: 520px;
+    padding: 20px 19px 35px 20px;
+    background: #ffefe4;
+    border-radius: 35px;
+    box-shadow: 5px 5px 7.5px rgba(0, 0, 0, 0.25);
+  }
+  .tattoo-artist-image-style {
+    box-sizing: border-box;
+    display: block;
+    flex: 0 0 auto;
+    max-width: initial;
+    height: 481px;
+    border: none;
+    border-radius: 30px;
+    object-fit: cover;
+  }
+  .tattoo-artist-name-style {
+    flex: 0 0 auto;
+    align-self: center;
+    padding: 0;
+    margin: 0;
+    margin-top: 23px;
+    font: 400 40px/29.5px Helvetica;
+    color: black;
+    white-space: pre-wrap;
+  }
+  .tattoo-info-container {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 47px;
+  }
+  .tattoo-style-text-block {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    font: 400 24px/29.5px Helvetica;
+    color: black;
+    white-space: pre-wrap;
+    opacity: 0.6;
+  }
+  .elegant-text {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    margin-top: 13px;
+    font: 400 24px/29.5px Helvetica;
+    color: black;
+    white-space: pre-wrap;
+    opacity: 0.6;
+  }
+  .tattoo-studio-layout1 {
+    flex: 1 0 auto;
+    padding-top: 143px;
+    margin-left: -360px;
+  }
+  .flexbox-card {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px;
+    background: #dbc6b8;
+    border-radius: 35px;
+  }
+  .hero-image-container1 {
+    box-sizing: border-box;
+    display: block;
+    width: 340px;
+    max-width: initial;
+    height: 160px;
+    border: none;
+    border-radius: 0px 0px 0px 35px;
+    object-fit: cover;
+  }
+  .card-container1 {
+    flex: 0 0 auto;
+  }
+  .image-container-fullwidth {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    max-width: initial;
+    border: none;
+    object-fit: cover;
+  }
+  .vertical-spacer {
+    margin-top: 17px;
+  }
+  .image-container1 {
+    box-sizing: border-box;
+    display: block;
+    width: 340px;
+    max-width: initial;
+    border: none;
+    object-fit: cover;
+  }
+  .vertical-flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+  }
+  .image-container-with-border-radius {
+    box-sizing: border-box;
+    display: block;
+    flex: 0 0 auto;
+    max-width: initial;
+    height: 340px;
+    border: none;
+    border-radius: 0px 35px 0px 0px;
+    object-fit: cover;
+  }
+  .image-container2 {
+    flex: 0 0 auto;
+    margin-top: 20px;
+  }
+  .image-container-styles1 {
+    box-sizing: border-box;
+    display: block;
+    width: 340px;
+    max-width: initial;
+    height: 160px;
+    border: none;
+    object-fit: cover;
+  }
+  .image-container-styles2{
+    box-sizing: border-box;
+    display: block;
+    width: 160px;
+    max-width: initial;
+    height: 340px;
+    border: none;
+    object-fit: cover;
+  }
+  .hero-image-container2 {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    max-width: initial;
+    height: 520px;
+    border: none;
+    border-radius: 0px 35px 0px 0px;
+    object-fit: cover;
+  }
+  .flex-container-with-button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: 20px;
+  }
+  .flex-container-with-button2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .flex-container-with-button2 .more-button {
+    box-sizing: border-box;
+    display: block;
+    flex: 0 0 auto;
+    width: 160px;
+    min-width: 160px;
+    height: 160px;
+    margin-top: 20px;
+    font: 400 24px/29.5px Helvetica;
+    color: black;
+    cursor: pointer;
+    background: #ffefe4;
+    border: none;
+    border-radius: 0px 0px 35px 0px;
+  }
+  .image-button-container {
+    box-sizing: border-box;
+    display: block;
+    width: 160px;
+    max-width: initial;
+    height: 160px;
+    border: none;
+    object-fit: cover;
+  }
+  .more-button {
+    box-sizing: border-box;
+    display: block;
+    flex: 0 0 auto;
+    width: 160px;
+    min-width: 160px;
+    height: 160px;
+    margin-left: 20px;
+    font: 400 24px/29.5px Helvetica;
+    color: black;
+    cursor: pointer;
+    background: #ffefe4;
+    border: none;
+    border-radius: 0px 0px 35px 0px;
+  }
+  .tattoo-artist-profile-card1 {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: flex-start;
+    align-self: center;
+    justify-content: flex-start;
+    min-width: 1620px;
+  }
+  .designer-profile-card {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    width: 520px;
+    padding: 20px 20px 20px;
+    background: #ffefe4;
+    border-radius: 35px;
+    position: relative;
+    box-shadow: 5px 5px 7.5px rgba(0, 0, 0, 0.25);
+  }
+  .alexander-title {
+    flex: 0 0 auto;
+    align-self: center;
+    padding: 0;
+    margin: 0;
+    margin-top: 23px;
+    margin-left: 28px;
+    font: 400 40px/29.5px Helvetica;
+    color: black;
+    white-space: pre-wrap;
+  }
+  .japanese-minimalism-stylist {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    margin-left: 28px;
+    font: 400 24px/29.5px Helvetica;
+    color: black;
+    white-space: pre-wrap;
+    opacity: 0.6;
+  }
+  .minimalistic-japanese-typography {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    margin-top: 13px;
+    margin-left: 29px;
+    font: 400 24px/29.5px Helvetica;
+    color: black;
+    white-space: pre-wrap;
+    opacity: 0.6;
+  }
+  .flexbox-container-with-images-and-button {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px 20px 19px;
+    background: #dbc6b8;
+    border-radius: 35px;
+  }
+  .vertical-align-bottom-flex-container {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+  .hero-image-container {
+    box-sizing: border-box;
+    display: block;
+    flex: 0 0 auto;
+    width: 340px;
+    max-width: initial;
+    height: 520px;
+    border: none;
+    object-fit: cover;
+  }
+  .image-gallery-container {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: 20px;
+  }
+  .image-container-with-border {
+    box-sizing: border-box;
+    display: block;
+    width: 340px;
+    max-width: initial;
+    height: 160px;
+    margin-left: 20px;
+    border: none;
+    object-fit: cover;
+  }
+  .image-container-styles {
+    box-sizing: border-box;
+    display: block;
+    width: 340px;
+    max-width: initial;
+    height: 340px;
+    border: none;
+    object-fit: cover;
+  }
+  .vertical-margin-top {
+    margin-top: 20px;
+  }
+  .image-container-with-button {
+    box-sizing: border-box;
+    display: block;
+    width: 340px;
+    max-width: initial;
+    height: 340px;
+    border: none;
+    border-radius: 0px 35px 0px 0px;
+    object-fit: cover;
+  }
+  .card-container {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 160px;
+    margin-left: 20px;
+  }
+  .image-container {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    max-width: initial;
+    height: 160px;
+    border: none;
+    object-fit: cover;
+  }
+  .promo-button {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    min-width: 160px;
+    height: 160px;
+    margin-top: 20px;
+    font: 400 24px/29.5px Helvetica;
+    color: black;
+    cursor: pointer;
+    background: #ffefe4;
+    border: none;
+    border-radius: 0px 35px 0px 0px;
+  }
+  .scroll-to-top {
+    flex: 0 0 auto;
+    padding-top: 827px;
+    margin-left: 10px;
+  }
+  .arrow-container {
+    box-sizing: border-box;
+    width: 96px;
+    padding-top: 3px;
+    padding-right: 17px;
+    padding-left: 17px;
+    background: url("assets/div_0_169_0_170_393083.svg") 50% / cover no-repeat;
+  }
+  .heading-arrow {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    font: 700 96px Montserrat, sans-serif;
+    color: white;
+    text-align: center;
+    white-space: pre-wrap;
+  }
+  .artistry-section {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    min-width: 892px;
+    padding: 79px 514px;
+    background: #6b5b4f;
+  }
+  .tattoo-salon-info {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 63%;
+  }
+  .title-text {
+    padding: 0;
+    margin: 0;
+    font: 400 24px Helvetica;
+    color: white;
+    white-space: pre-wrap;
+  }
+  .unique-text-block {
+    box-sizing: border-box;
+    max-width: 498px;
+    padding: 0;
+    margin: 0;
+    margin-top: 17px;
+    font: 400 15px Helvetica;
+    color: #bebebe;
+    text-align: left;
+    white-space: pre-wrap;
+  }
+  .unique-header-text-style {
+    padding: 0;
+    margin: 0;
+    margin-top: 27px;
+    font: 400 24px Helvetica;
+    color: white;
+    white-space: pre-wrap;
+  }
+  .tattoo-social-media-icons-row {
+    display: flex;
+    flex-direction: row;
+    gap: 13px;
+    align-items: flex-end;
+    justify-content: flex-start;
+    margin-top: 15px;
+  }
+  .grid-image-container {
+    box-sizing: border-box;
+    display: block;
+    width: 35px;
+    max-width: initial;
+    height: 35px;
+  }
+  .salon-info-container {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 37%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .tattoo-info {
+    padding: 0;
+    margin: 0;
+    margin-top: 15px;
+    font: 400 15px Helvetica;
+    color: #bebebe;
+    white-space: pre-wrap;
+  }
+  .tattoo-info-heading {
+    padding: 0;
+    margin: 0;
+    margin-top: 25px;
+    font: 400 24px Helvetica;
+    color: white;
+    white-space: pre-wrap;
+  }
+  .contact-info-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 15px;
+  }
+  .contact-info-text {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    font: 400 15px Helvetica;
+    color: #bebebe;
+    white-space: pre-wrap;
+  }
+  .contact-info-paragraph {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    margin-left: 25px;
+    font: 400 15px Helvetica;
+    color: #bebebe;
+    white-space: pre-wrap;
+  }

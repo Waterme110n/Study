@@ -1,0 +1,7 @@
+﻿  LCS.cpp
+C:\labi_2kurs_2_sem\mat prog\Math_programming\Lab's\Lab_4\Lab_4\Ex_2\LCS.cpp(44,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\labi_2kurs_2_sem\mat prog\Math_programming\Lab's\Lab_4\Lab_4\Ex_2\LCS.cpp(44,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\labi_2kurs_2_sem\mat prog\Math_programming\Lab's\Lab_4\Lab_4\Ex_2\LCS.cpp(43,6): warning C4101: n: неиспользованная локальная переменная
+  main.cpp
+  Создание кода...
+  Ex_2.vcxproj -> C:\labi_2kurs_2_sem\mat prog\Math_programming\Lab's\Lab_4\Lab_4\x64\Debug\Ex_2.exe

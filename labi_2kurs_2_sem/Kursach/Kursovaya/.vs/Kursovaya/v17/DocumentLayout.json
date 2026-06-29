@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8BEF25-DC78-4418-9F5A-51835488CBC5}|Kursovaya\\Kursovaya.csproj|c:\\labi_2kurs_2_sem\\kursach\\kursovaya\\kursovaya\\createimage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BD8BEF25-DC78-4418-9F5A-51835488CBC5}|Kursovaya\\Kursovaya.csproj|solutionrelative:kursovaya\\createimage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8BEF25-DC78-4418-9F5A-51835488CBC5}|Kursovaya\\Kursovaya.csproj|C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\kursovaya\\createimage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD8BEF25-DC78-4418-9F5A-51835488CBC5}|Kursovaya\\Kursovaya.csproj|solutionrelative:kursovaya\\createimage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8BEF25-DC78-4418-9F5A-51835488CBC5}|Kursovaya\\Kursovaya.csproj|C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\kursovaya\\authormenu.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BD8BEF25-DC78-4418-9F5A-51835488CBC5}|Kursovaya\\Kursovaya.csproj|solutionrelative:kursovaya\\authormenu.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8BEF25-DC78-4418-9F5A-51835488CBC5}|Kursovaya\\Kursovaya.csproj|C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\kursovaya\\authormenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD8BEF25-DC78-4418-9F5A-51835488CBC5}|Kursovaya\\Kursovaya.csproj|solutionrelative:kursovaya\\authormenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8BEF25-DC78-4418-9F5A-51835488CBC5}|Kursovaya\\Kursovaya.csproj|C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\kursovaya\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BD8BEF25-DC78-4418-9F5A-51835488CBC5}|Kursovaya\\Kursovaya.csproj|solutionrelative:kursovaya\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8BEF25-DC78-4418-9F5A-51835488CBC5}|Kursovaya\\Kursovaya.csproj|C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\kursovaya\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD8BEF25-DC78-4418-9F5A-51835488CBC5}|Kursovaya\\Kursovaya.csproj|solutionrelative:kursovaya\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateImage.xaml.cs",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\Kursovaya\\CreateImage.xaml.cs",
+              "RelativeDocumentMoniker": "Kursovaya\\CreateImage.xaml.cs",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\Kursovaya\\CreateImage.xaml.cs",
+              "RelativeToolTip": "Kursovaya\\CreateImage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:13:09.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateImage.xaml",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\Kursovaya\\CreateImage.xaml",
+              "RelativeDocumentMoniker": "Kursovaya\\CreateImage.xaml",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\Kursovaya\\CreateImage.xaml",
+              "RelativeToolTip": "Kursovaya\\CreateImage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T11:13:05.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorMenu.xaml.cs",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\Kursovaya\\AuthorMenu.xaml.cs",
+              "RelativeDocumentMoniker": "Kursovaya\\AuthorMenu.xaml.cs",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\Kursovaya\\AuthorMenu.xaml.cs",
+              "RelativeToolTip": "Kursovaya\\AuthorMenu.xaml.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAACQAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:12:43.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorMenu.xaml",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\Kursovaya\\AuthorMenu.xaml",
+              "RelativeDocumentMoniker": "Kursovaya\\AuthorMenu.xaml",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\Kursovaya\\AuthorMenu.xaml",
+              "RelativeToolTip": "Kursovaya\\AuthorMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T11:12:41.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\Kursovaya\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Kursovaya\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\Kursovaya\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Kursovaya\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:12:29.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\Kursovaya\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Kursovaya\\MainWindow.xaml",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\Kursach\\Kursovaya\\Kursovaya\\MainWindow.xaml",
+              "RelativeToolTip": "Kursovaya\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T10:40:08.776Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

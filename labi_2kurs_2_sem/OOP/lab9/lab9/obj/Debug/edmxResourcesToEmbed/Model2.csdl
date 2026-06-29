@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AirplaneDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="C__MigrationHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+      <PropertyRef Name="ContextKey" />
+    </Key>
+    <Property Name="MigrationId" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ContextKey" Type="String" MaxLength="300" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Model" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <Property Name="ProductVersion" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Airplanes">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="Type" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Model" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PassengerSeats" Type="Int32" Nullable="false" />
+    <Property Name="YearOfManufacture" Type="Int32" Nullable="false" />
+    <Property Name="CargoCapacity" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="LastMaintenanceDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="CrewMembers" Relationship="Self.FK_dbo_CrewMembers_dbo_Airplanes_AirplaneID" FromRole="Airplanes" ToRole="CrewMembers" />
+  </EntityType>
+  <EntityType Name="CrewMembers">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="FullName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Position" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Age" Type="Int32" Nullable="false" />
+    <Property Name="Experience" Type="Int32" Nullable="false" />
+    <Property Name="AirplaneID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Airplanes" Relationship="Self.FK_dbo_CrewMembers_dbo_Airplanes_AirplaneID" FromRole="CrewMembers" ToRole="Airplanes" />
+  </EntityType>
+  <Association Name="FK_dbo_CrewMembers_dbo_Airplanes_AirplaneID">
+    <End Role="Airplanes" Type="Self.Airplanes" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="CrewMembers" Type="Self.CrewMembers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Airplanes">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="CrewMembers">
+        <PropertyRef Name="AirplaneID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AirplaneDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="C__MigrationHistory" EntityType="Self.C__MigrationHistory" />
+    <EntitySet Name="Airplanes" EntityType="Self.Airplanes" />
+    <EntitySet Name="CrewMembers" EntityType="Self.CrewMembers" />
+    <AssociationSet Name="FK_dbo_CrewMembers_dbo_Airplanes_AirplaneID" Association="Self.FK_dbo_CrewMembers_dbo_Airplanes_AirplaneID">
+      <End Role="Airplanes" EntitySet="Airplanes" />
+      <End Role="CrewMembers" EntitySet="CrewMembers" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

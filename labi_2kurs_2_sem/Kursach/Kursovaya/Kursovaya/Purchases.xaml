@@ -1,0 +1,51 @@
+﻿<Window x:Class="Kursovaya.Purchases"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kursovaya"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen" 
+        Title="Purchases" Height="1080" Width="1920">
+    <Window.Resources>
+        <FontFamily x:Key="Montserrat">/Montserrat_font/#Montserrat</FontFamily>
+        <local:FavoriteImageConverter x:Key="FavoriteImageConverter" />
+    </Window.Resources>
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <Grid>
+            <Grid.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Offset="1" Color="#C7CFE2"/>
+                    <GradientStop Offset="0" Color="#7686AB"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Button Click="Back_click" HorizontalAlignment="Left" VerticalAlignment="Top"  Width="60" Height="60" Background="{x:Null}" Margin="100,80,00,0" Foreground="{x:Null}" BorderBrush="{x:Null}">
+                <Image Source="C:\labi_2kurs_2_sem\Kursach\Kursovaya\Kursovaya\images\back.png" Width="60" Height="60" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </Button>
+            <TextBlock Text="Your purchases" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="{StaticResource Montserrat}" FontSize="96" FontWeight="Bold" Margin="0,48,0,48" Foreground="#FF22304F"/>
+
+            <ItemsControl x:Name="PurchasesList" Background="{x:Null}" Margin="00,300,0,0" Width="1280" Height="auto" >
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Height="300" Width="1280" Margin="0,0,0,50" >
+                            <Grid.Background>
+                                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                    <GradientStop Offset="1" Color="#FF8594B9"/>
+                                    <GradientStop Offset="0" Color="#FF3556A4"/>
+                                </LinearGradientBrush>
+                            </Grid.Background>
+
+                            <Image Source="C:\labi_2kurs_2_sem\Kursach\Kursovaya\Kursovaya\image_paths\backfoto.png" Width="200" Height="252" Margin="25,25,0,0" VerticalAlignment="top" HorizontalAlignment="Left"/>
+                            <Image Source="{Binding ImagePaths[0]}" Width="153" Height="205" Margin="50,50,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" />
+                            <TextBlock Text="{Binding ImageName}"   FontSize="20" Margin="310,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="{StaticResource Montserrat}" FontWeight="Medium" ></TextBlock>
+                            <TextBlock Text="{Binding AuthorName}"   FontSize="20" Margin="560,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="{StaticResource Montserrat}" FontWeight="Medium" ></TextBlock>
+                            <TextBlock Text="{Binding TotalPrice}"  FontSize="20" Margin="810,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="{StaticResource Montserrat}" FontWeight="Medium" > р.</TextBlock>
+                            <TextBlock Text="{Binding PurchaseDate}" FontSize="20" Margin="1010,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="{StaticResource Montserrat}" FontWeight="Medium" ></TextBlock>
+                        </Grid>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </Grid>
+    </ScrollViewer>
+</Window>

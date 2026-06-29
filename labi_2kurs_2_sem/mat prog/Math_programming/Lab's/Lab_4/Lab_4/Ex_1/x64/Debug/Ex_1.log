@@ -1,0 +1,5 @@
+﻿  Levenshtein.cpp
+  main.cpp
+C:\labi_2kurs_2_sem\mat prog\Math_programming\Lab's\Lab_4\Lab_4\Ex_1\main.cpp(39,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Ex_1.vcxproj -> C:\labi_2kurs_2_sem\mat prog\Math_programming\Lab's\Lab_4\Lab_4\x64\Debug\Ex_1.exe

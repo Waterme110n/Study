@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\labi_2kurs_2_sem\\paterns\\Paterns\\labs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F329B90-326B-4148-B1C1-EE8FB7FA1CCB}|PP06\\PP06.csproj|c:\\labi_2kurs_2_sem\\paterns\\paterns\\labs\\pp06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F329B90-326B-4148-B1C1-EE8FB7FA1CCB}|PP06\\PP06.csproj|solutionrelative:pp06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8E264C-D61D-4CD7-99C8-DC1976AFF877}|Lab6Lib\\Lab6Lib.csproj|C:\\labi_2kurs_2_sem\\paterns\\Paterns\\labs\\lab6lib\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8E264C-D61D-4CD7-99C8-DC1976AFF877}|Lab6Lib\\Lab6Lib.csproj|solutionrelative:lab6lib\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8E264C-D61D-4CD7-99C8-DC1976AFF877}|Lab6Lib\\Lab6Lib.csproj|C:\\labi_2kurs_2_sem\\paterns\\Paterns\\labs\\lab6lib\\subsriber\\subscribera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8E264C-D61D-4CD7-99C8-DC1976AFF877}|Lab6Lib\\Lab6Lib.csproj|solutionrelative:lab6lib\\subsriber\\subscribera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\paterns\\Paterns\\labs\\PP06\\Program.cs",
+              "RelativeDocumentMoniker": "PP06\\Program.cs",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\paterns\\Paterns\\labs\\PP06\\Program.cs",
+              "RelativeToolTip": "PP06\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:51:57.749Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubscriberA.cs",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\paterns\\Paterns\\labs\\Lab6Lib\\Subsriber\\SubscriberA.cs",
+              "RelativeDocumentMoniker": "Lab6Lib\\Subsriber\\SubscriberA.cs",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\paterns\\Paterns\\labs\\Lab6Lib\\Subsriber\\SubscriberA.cs",
+              "RelativeToolTip": "Lab6Lib\\Subsriber\\SubscriberA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:11:10.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\paterns\\Paterns\\labs\\Lab6Lib\\Publisher.cs",
+              "RelativeDocumentMoniker": "Lab6Lib\\Publisher.cs",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\paterns\\Paterns\\labs\\Lab6Lib\\Publisher.cs",
+              "RelativeToolTip": "Lab6Lib\\Publisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:52:10.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

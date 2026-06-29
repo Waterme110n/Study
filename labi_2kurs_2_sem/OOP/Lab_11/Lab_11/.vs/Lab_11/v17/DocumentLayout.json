@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|c:\\labi_2kurs_2_sem\\oop\\lab_11\\lab_11\\lab_11\\viewmodel\\consultationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|solutionrelative:lab_11\\viewmodel\\consultationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|c:\\labi_2kurs_2_sem\\oop\\lab_11\\lab_11\\lab_11\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|solutionrelative:lab_11\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|c:\\labi_2kurs_2_sem\\oop\\lab_11\\lab_11\\lab_11\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|solutionrelative:lab_11\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|c:\\labi_2kurs_2_sem\\oop\\lab_11\\lab_11\\lab_11\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|solutionrelative:lab_11\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|c:\\labi_2kurs_2_sem\\oop\\lab_11\\lab_11\\lab_11\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|solutionrelative:lab_11\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|c:\\labi_2kurs_2_sem\\oop\\lab_11\\lab_11\\lab_11\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|solutionrelative:lab_11\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|c:\\labi_2kurs_2_sem\\oop\\lab_11\\lab_11\\lab_11\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|solutionrelative:lab_11\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|c:\\labi_2kurs_2_sem\\oop\\lab_11\\lab_11\\lab_11\\model\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1893E5F9-9BD4-4C4D-A5ED-CAB4CB3ABAC8}|Lab_11\\Lab_11.csproj|solutionrelative:lab_11\\model\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Lab_11\\App.xaml.cs",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\App.xaml.cs",
+              "RelativeToolTip": "Lab_11\\App.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:39:39.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Lab_11\\AssemblyInfo.cs",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\AssemblyInfo.cs",
+              "RelativeToolTip": "Lab_11\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:39:36.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\App.xaml",
+              "RelativeDocumentMoniker": "Lab_11\\App.xaml",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\App.xaml",
+              "RelativeToolTip": "Lab_11\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T17:39:35.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\App.config",
+              "RelativeDocumentMoniker": "Lab_11\\App.config",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\App.config",
+              "RelativeToolTip": "Lab_11\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-22T17:39:33.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Lab_11\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "Lab_11\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:39:30.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsultationViewModel.cs",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\ViewModel\\ConsultationViewModel.cs",
+              "RelativeDocumentMoniker": "Lab_11\\ViewModel\\ConsultationViewModel.cs",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\ViewModel\\ConsultationViewModel.cs",
+              "RelativeToolTip": "Lab_11\\ViewModel\\ConsultationViewModel.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:39:20.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab_11\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Lab_11\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T17:39:18.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Consultation.cs",
+              "DocumentMoniker": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\Model\\Consultation.cs",
+              "RelativeDocumentMoniker": "Lab_11\\Model\\Consultation.cs",
+              "ToolTip": "C:\\labi_2kurs_2_sem\\OOP\\Lab_11\\Lab_11\\Lab_11\\Model\\Consultation.cs",
+              "RelativeToolTip": "Lab_11\\Model\\Consultation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:39:12.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
