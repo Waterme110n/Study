@@ -1,0 +1,15 @@
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/obj/Debug/net7.0/first_lab.csproj.AssemblyReference.cache
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/obj/Debug/net7.0/first_lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/obj/Debug/net7.0/first_lab.AssemblyInfoInputs.cache
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/obj/Debug/net7.0/first_lab.AssemblyInfo.cs
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/obj/Debug/net7.0/first_lab.csproj.CoreCompileInputs.cache
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/bin/Debug/net7.0/first_lab
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/bin/Debug/net7.0/first_lab.deps.json
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/bin/Debug/net7.0/first_lab.runtimeconfig.json
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/bin/Debug/net7.0/first_lab.dll
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/bin/Debug/net7.0/first_lab.pdb
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/obj/Debug/net7.0/first_lab.dll
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/obj/Debug/net7.0/refint/first_lab.dll
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/obj/Debug/net7.0/first_lab.pdb
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/obj/Debug/net7.0/first_lab.genruntimeconfig.cache
+/Users/nikitapapko/Projects/Lab_OOP/first_lab/obj/Debug/net7.0/ref/first_lab.dll

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap">
+      <HintPath>C:\Windows\WinSxS\amd64_system.runtime.seri..ion.formatters.soap_b03f5f7f11d50a3a_4.0.15840.3_none_a3137e690efddf8a\System.Runtime.Serialization.Formatters.Soap.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

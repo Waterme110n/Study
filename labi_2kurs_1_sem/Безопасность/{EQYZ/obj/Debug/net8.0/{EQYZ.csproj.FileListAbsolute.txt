@@ -1,0 +1,42 @@
+C:\3 сем\Лабы Якубенко\лабы\{EQYZ\bin\Debug\net8.0\{EQYZ.exe
+C:\3 сем\Лабы Якубенко\лабы\{EQYZ\bin\Debug\net8.0\{EQYZ.deps.json
+C:\3 сем\Лабы Якубенко\лабы\{EQYZ\bin\Debug\net8.0\{EQYZ.runtimeconfig.json
+C:\3 сем\Лабы Якубенко\лабы\{EQYZ\bin\Debug\net8.0\{EQYZ.dll
+C:\3 сем\Лабы Якубенко\лабы\{EQYZ\bin\Debug\net8.0\{EQYZ.pdb
+C:\3 сем\Лабы Якубенко\лабы\{EQYZ\obj\Debug\net8.0\{EQYZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 сем\Лабы Якубенко\лабы\{EQYZ\obj\Debug\net8.0\{EQYZ.AssemblyInfoInputs.cache
+C:\3 сем\Лабы Якубенко\лабы\{EQYZ\obj\Debug\net8.0\{EQYZ.AssemblyInfo.cs
+C:\3 сем\Лабы Якубенко\лабы\{EQYZ\obj\Debug\net8.0\{EQYZ.csproj.CoreCompileInputs.cache
+C:\3 сем\Лабы Якубенко\лабы\{EQYZ\obj\Debug\net8.0\{EQYZ.dll
+C:\3 сем\Лабы Якубенко\лабы\{EQYZ\obj\Debug\net8.0\refint\{EQYZ.dll
+C:\3 сем\Лабы Якубенко\лабы\{EQYZ\obj\Debug\net8.0\{EQYZ.pdb
+C:\3 сем\Лабы Якубенко\лабы\{EQYZ\obj\Debug\net8.0\{EQYZ.genruntimeconfig.cache
+C:\3 сем\Лабы Якубенко\лабы\{EQYZ\obj\Debug\net8.0\ref\{EQYZ.dll
+C:\Users\User\Desktop\{EQYZ\bin\Debug\net8.0\{EQYZ.exe
+C:\Users\User\Desktop\{EQYZ\bin\Debug\net8.0\{EQYZ.deps.json
+C:\Users\User\Desktop\{EQYZ\bin\Debug\net8.0\{EQYZ.runtimeconfig.json
+C:\Users\User\Desktop\{EQYZ\bin\Debug\net8.0\{EQYZ.dll
+C:\Users\User\Desktop\{EQYZ\bin\Debug\net8.0\{EQYZ.pdb
+C:\Users\User\Desktop\{EQYZ\obj\Debug\net8.0\{EQYZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\{EQYZ\obj\Debug\net8.0\{EQYZ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\{EQYZ\obj\Debug\net8.0\{EQYZ.AssemblyInfo.cs
+C:\Users\User\Desktop\{EQYZ\obj\Debug\net8.0\{EQYZ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\{EQYZ\obj\Debug\net8.0\{EQYZ.dll
+C:\Users\User\Desktop\{EQYZ\obj\Debug\net8.0\refint\{EQYZ.dll
+C:\Users\User\Desktop\{EQYZ\obj\Debug\net8.0\{EQYZ.pdb
+C:\Users\User\Desktop\{EQYZ\obj\Debug\net8.0\{EQYZ.genruntimeconfig.cache
+C:\Users\User\Desktop\{EQYZ\obj\Debug\net8.0\ref\{EQYZ.dll
+C:\labi 2kurs 1 sem\Безопасность\{EQYZ\bin\Debug\net8.0\{EQYZ.exe
+C:\labi 2kurs 1 sem\Безопасность\{EQYZ\bin\Debug\net8.0\{EQYZ.deps.json
+C:\labi 2kurs 1 sem\Безопасность\{EQYZ\bin\Debug\net8.0\{EQYZ.runtimeconfig.json
+C:\labi 2kurs 1 sem\Безопасность\{EQYZ\bin\Debug\net8.0\{EQYZ.dll
+C:\labi 2kurs 1 sem\Безопасность\{EQYZ\bin\Debug\net8.0\{EQYZ.pdb
+C:\labi 2kurs 1 sem\Безопасность\{EQYZ\obj\Debug\net8.0\{EQYZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\labi 2kurs 1 sem\Безопасность\{EQYZ\obj\Debug\net8.0\{EQYZ.AssemblyInfoInputs.cache
+C:\labi 2kurs 1 sem\Безопасность\{EQYZ\obj\Debug\net8.0\{EQYZ.AssemblyInfo.cs
+C:\labi 2kurs 1 sem\Безопасность\{EQYZ\obj\Debug\net8.0\{EQYZ.csproj.CoreCompileInputs.cache
+C:\labi 2kurs 1 sem\Безопасность\{EQYZ\obj\Debug\net8.0\{EQYZ.dll
+C:\labi 2kurs 1 sem\Безопасность\{EQYZ\obj\Debug\net8.0\refint\{EQYZ.dll
+C:\labi 2kurs 1 sem\Безопасность\{EQYZ\obj\Debug\net8.0\{EQYZ.pdb
+C:\labi 2kurs 1 sem\Безопасность\{EQYZ\obj\Debug\net8.0\{EQYZ.genruntimeconfig.cache
+C:\labi 2kurs 1 sem\Безопасность\{EQYZ\obj\Debug\net8.0\ref\{EQYZ.dll

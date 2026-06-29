@@ -1,0 +1,900 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+/*font-family: 'Open Sans', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/*font-family: 'Poppins', sans-serif;*/
+*{
+  --marginAll: 6.143vw;
+  margin: 0px;
+  padding: 0px;
+}
+body{ 
+  overflow-x: hidden;
+}
+a{
+  text-decoration: none;
+  color: #000000;
+}
+/*------------------------HeaderEveryStr------------------------*/
+header{
+  z-index: 11;
+  position: sticky;
+  display:block;
+  text-align: center;
+  top: 0px;
+}
+header .UpHeader{
+  position: relative;
+  text-align: center;
+  background-color:#50806B;
+  height: 3.214vw;
+  z-index: 10;
+}
+.UpHeader h3{
+  padding-top: 0.714vw;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.143vw;
+  font-weight: 600;
+  line-height: 1.571vw;
+  letter-spacing: 0.036vw;
+  text-align: center;
+  color: white;
+}
+.UpHeader .val{
+  color:  white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.143vw;
+  font-weight: 400;
+  line-height: 1.571vw;
+  letter-spacing: 0.036vw;
+  top: 0.714vw;
+  left: 80.500vw;
+  position: absolute;
+}
+.UpHeader .Support{
+  color:  white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.143vw;
+  font-weight: 700;
+  line-height: 1.571vw;
+  letter-spacing: 0.036vw;
+  top: 0.714vw;
+  left: 84.571vw;
+  position: absolute;
+}
+header .DownHeader{
+  position: relative;
+  height: 4.357vw;
+  background-color: white;
+  box-shadow: 0px 0.29vw 0.71vw 0px #00000026;
+  z-index: 10;
+} 
+
+.DownHeader .logo{
+  position: absolute;
+  color: #50806B;
+  font-family: 'Poppins', sans-serif;;
+  font-size: 1.857vw;
+  font-weight: 600;
+  line-height: 1.857vw;
+  letter-spacing: -0.043vw;
+  text-align: left;
+  left: var(--marginAll);
+  padding: 1.3vw 0;
+}
+
+.DownHeader .logo span{
+  color: black;
+}
+.DownHeader .menu {
+
+  display: flex;
+  flex-direction: row ;
+  text-align: center;
+  list-style-type: none;
+  justify-content: center;
+}
+.DownHeader .menu li{
+  margin: 1.3vw 3.21vw;
+  line-height: 1.64vw;
+  position: relative;
+
+}
+.DownHeader .menu li a{
+  display: block;
+  position: relative;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.21vw;
+  font-weight: 400;
+  line-height: 1.64vw;
+  letter-spacing: -0.043vw;
+  text-align: left;
+  color: black;
+  text-decoration: none;
+  padding: 0px;
+}
+
+.DownHeader .SearchAndShop{
+  position: absolute;
+  right: 13vw;
+  top: 0vw;
+  display: flex;
+  flex-direction: row;
+}
+.DownHeader .SearchAndShop .korz{
+  width: 2.3vw;
+  height: 2.4vw;
+  margin: 1vw 0 1vw 1.4vw;
+}
+.DownHeader .SearchAndShop .Number{
+  margin: 1.4vw 0.2vw;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.214vw;
+  font-weight: 400;
+  line-height: 1.643vw;
+  letter-spacing: -0.043vw;
+  text-align: left;
+  color: black;
+}
+@media (min-width: 350px) and (max-width: 800px) {
+  header{
+    z-index: 11;
+    position: sticky;
+    display:block;
+    text-align: center;
+    top: 0px;
+  }
+  header .UpHeader{
+    position: relative;
+    text-align: center;
+    background-color:#50806B;
+    height: 25px;
+    z-index: 10;
+  }
+  .UpHeader h3{
+    padding-top: 5.712px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 9.144px;
+    font-weight: 600;
+    line-height: 12.568px;
+    letter-spacing: 0.036vw;
+    text-align: center;
+    color: white;
+  }
+  .UpHeader .val{
+    display: none;
+  }
+  .UpHeader .Support{
+    display: none;
+  }
+  header .DownHeader{
+    position: relative;
+    height: 34.856px;
+    background-color: white;
+    box-shadow: 0px 0.29vw 0.71vw 0px #00000026;
+    z-index: 10;
+  } 
+  .DownHeader .logo{
+  display: none;
+  }
+  
+  .DownHeader .logo span{
+    color: black;
+  }
+  .DownHeader .menu {
+    display: flex;
+    flex-direction: row ;
+    text-align: center;
+    list-style-type: none;
+    justify-content: center;
+  }
+  .DownHeader .menu li{
+    margin: 10.4px 25.68px;
+    line-height: 1.64vw;
+    position: relative;
+  
+  }
+  .DownHeader .menu li a{
+    display: block;
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 9.68px;
+    font-weight: 400;
+    line-height: 13.12px;
+    letter-spacing: -0.043vw;
+    text-align: left;
+    color: black;
+    text-decoration: none;
+    padding: 0px;
+  }
+  
+  .DownHeader .SearchAndShop{
+    position: absolute;
+    right: 10px;
+    top: 0vw;
+    display: flex;
+    flex-direction: row;
+  }
+  .DownHeader .SearchAndShop .korz{
+    width: 18.4px;
+    height: 19.2px;
+    margin: 8px 0 8px 19.2px;
+  }
+  .DownHeader .SearchAndShop .Number{
+    margin: 13.2px 1.6px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 9.712px;
+    font-weight: 400;
+    line-height: 1.643vw;
+    letter-spacing: -0.043vw;
+    text-align: left;
+    color: black;
+  }
+}
+/*------------------------Main------------------------*/
+.top{
+  position: relative;
+  height: 52vw;
+  background-color: #E8EDDE;
+}
+.top .LeftFlower{
+  z-index: 1;
+  position: absolute;
+  width: 30.571vw;
+  height: 33.143vw;
+  top: 16.571vw;
+}
+.top .RightFlower{
+  position: absolute;
+  width: 74.500vw;
+  height: 57.214vw;
+  right: 0vw;
+  top: -7.571vw;
+}
+.top .TopCenter{
+  position: relative;
+  z-index: 9;
+  margin: 0 auto;
+  background: #50806B33;
+  backdrop-filter: blur(0.714vw);
+  width: 42.429vw;
+  height: 52.143vw;
+  text-align: center;
+}
+.TopCenter h3{
+  font-family: 'Poppins', sans-serif;
+  font-size: 5.714vw;
+  font-weight: 600;
+  line-height: 5.714vw;
+  letter-spacing: 0.034vw;
+  text-align: center;
+  padding-top: 11.5vw;
+}
+.TopCenter p{
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.571vw;
+  font-weight: 400;
+  line-height: 2.357vw;
+  letter-spacing: 0px;
+  text-align: center;
+  padding: 3vw;
+
+}
+.TopCenter button{
+  display: block;
+  margin: 2vw auto 0 auto;
+  background-color: white;
+  border: none;
+  border-radius: 1.429vw;
+
+}
+.TopCenter button a{  
+  padding: 1.714vw 4vw;
+  display: block;
+  text-transform: uppercase;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.571vw;
+  font-weight: 600;
+  line-height: 1.571vw;
+  letter-spacing: 0.029vw;
+  text-align: center;
+  cursor: pointer;
+
+}
+.top .TopEnd{
+  z-index: 10;
+  position: relative;
+  top: -2.5vw;
+  background-color: #50806B;
+  height: 2.786vw;
+}
+@media (min-width: 350px) and (max-width: 800px) {
+  .top{
+    position: relative;
+    height: 280px;
+    background-color: #E8EDDE;
+  }
+  .top .LeftFlower{
+    z-index: 1;
+    position: absolute;
+    width: 244.568px;
+    height:265.144px;
+    top:  5px;
+  }
+  .top .RightFlower{
+    position: absolute;
+    width: 596px;
+    height: 457.712px;
+    right: 0vw;
+    top: -188px;
+  }
+  .top .TopCenter{
+    position: relative;
+    z-index: 9;
+    margin: 0 auto;
+    background: #50806B33;
+    backdrop-filter: blur(0.714vw);
+    width: 100%;
+    height: 280px;
+    text-align: center;
+  }
+  .TopCenter h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30.712px;
+    font-weight: 600;
+    line-height: 45.712px;
+    letter-spacing:0.272px;
+    text-align: center;
+    padding-top: 20px;
+}
+  .TopCenter p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 12.568px;
+    font-weight: 400;
+    line-height:  18.856px;
+    letter-spacing: 0px;
+    text-align: center;
+    padding: 24px;
+  }
+  .TopCenter button{
+    display: block;
+    margin: 16px auto 0 auto;
+    background-color: white;
+    border: none;
+    border-radius: 1.429vw;
+  
+  }
+  .TopCenter button a{  
+    padding: 13.712px 32px;
+    display: block;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12.568px;
+    font-weight: 600;
+    line-height: 12.568px;
+    letter-spacing: 0.029vw;
+    text-align: center;
+    cursor: pointer;
+  
+  }
+}
+/*------------------------Category------------------------*/
+.Category{
+  margin: var(--marginAll);
+}
+.Category h3{
+  font-family: 'Poppins', sans-serif;
+  font-size: 4vw;
+  font-weight: 600;
+  line-height: 4.786vw;
+  letter-spacing: 0em;
+  text-align: left;
+  padding: 2.286vw 0;
+
+}
+.Category h3 span{
+  color: #50806B;
+}
+.Category hr{
+  border: 0.071vw solid #000000;
+}
+.Category .categories{
+  margin-bottom: var(--marginAll);
+  display: grid;
+  grid-template-columns: 16.7% 16.7% 16.7% 16.7% 16.7% 16.7% ;
+}
+.Category .categories div img{
+  padding: 2.286vw 0 0 0;
+  width: 14.643vw;
+  height: 14.643vw;
+  border-radius: 1.429vw;  
+}
+.Category .categories div h2{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.143vw;
+  font-weight: 700;
+  line-height: 1.571vw;
+  letter-spacing: 0.229vw;
+  text-align: center;
+  text-transform: uppercase;
+  transition: all 1s ease;
+}
+/*------------------------Selling------------------------*/
+.Selling{
+  margin: var(--marginAll);
+}
+.Selling h3{
+  font-family: 'Poppins', sans-serif;
+  font-size: 4vw;
+  font-weight: 600;
+  line-height: 4.786vw;
+  letter-spacing: 0em;
+  text-align: left;
+  padding: 2.286vw 0;
+
+}
+.Selling .TopSelling{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.TopSelling h3 span{
+  color: #50806B;
+}
+.Selling hr{
+  border: 0.071vw solid #000000;
+}
+.Selling .BottomSelling{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.BottomSelling div{
+  display: block;
+  position: relative;
+  text-align: center;
+  margin: 2.286vw 0;
+  display: block;
+  width: 27.429vw;
+  height: 30.286vw;
+  border-radius: 1.143vw;
+  background-color: white;
+  box-shadow: 0px 0.571vw 1.643vw 0px #506B5221;
+}
+.BottomSelling div img{
+  padding:1.429vw;
+  width: 24.571vw;
+  height: 21.714vw;
+  border-radius: 2vw;
+  filter: brightness(80%);
+  
+}
+.BottomSelling div p{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.714vw;
+  font-weight: 600;
+  line-height: 2.357vw;
+  letter-spacing: 0.229vw;
+  width: 19vw;
+  text-align: center;
+  position: absolute;
+  top: 10vw;
+  left: 4.5vw;
+  color: white;
+  text-transform: uppercase;
+  text-shadow: 0.1vw 0.3vw 0.2vw #34343440
+}
+.BottomSelling div button{
+  position: absolute;
+  bottom: 0;
+  margin:1.429vw;
+  display: block;
+  width: 24.571vw;
+  height: 4.571vw;
+  border-radius: 0.571vw;
+  background-color: #50806B;
+  border: none;
+}
+.BottomSelling div button a{
+  display: block;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  padding:1.3vw 0.571vw ;
+  font-size: 1.429vw;
+  font-weight: 700;
+  line-height: 1.929vw;
+  letter-spacing: 0;
+  text-align: center;
+}
+/*------------------------Hottest------------------------*/
+.Hottest{
+  padding: var(--marginAll);
+  background-color: #E8EDDE;
+}
+.Hottest .TopHottest{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.TopHottest p{
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.143vw;
+  font-weight: 400;
+  line-height: 1.550vw;
+  letter-spacing: 0em;
+  text-align: right;
+  text-transform: uppercase;
+
+}
+.TopHottest h3{
+  font-family: 'Poppins', sans-serif;
+  font-size: 4vw;
+  font-weight: 600;
+  line-height: 4.786vw;
+  letter-spacing: 0em;
+  text-align: left;
+  padding: 2.286vw 0;
+}
+.TopHottest h3 span{
+  color: #50806B;
+}
+.Hottest hr{
+  border: 0.071vw solid #000000;
+}
+.Hottest .BottomHotest{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 3.6vw;
+}
+.BottomHotest .plant {
+  margin-bottom:1.429vw ;
+  position: relative;
+  display: flex;
+  text-align: center;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction:column ;
+  width: 20.143vw;
+  height: 29.857vw;
+  border-radius: 1.143vw;
+  background-color:  white;
+  box-shadow: 0px 0.571vw 1.643vw 0px #506B5221;
+}
+.plant img{
+  padding: 1.429vw;
+  width: 17.286vw;
+  height: 16vw;
+  border-radius: 2vw;
+}
+.plant h3, .plant p{
+  padding: 0 1.429vw;
+  color: #343434;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.429vw;
+  font-weight: 700;
+  line-height: 1.929vw;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.plant p{
+  font-weight: 400;
+}
+.plant button{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  line-height: 1.929vw;
+  letter-spacing: 0em;
+  padding: 1.2vw 7.3vw;
+  font-size: 1.429vw;
+  color: white;
+  text-align: center;
+  display: block;
+  margin: 1.429vw; 
+  background-color: #50806B;
+  border: none;
+  position: absolute;
+  bottom: 0;
+  border-radius: 0.571vw;
+}
+@media (min-width: 350px) and (max-width: 800px) {
+  .BottomHotest .plant {
+    margin-right: 11.5px;
+    margin-bottom:11px ;
+    position: relative;
+    display: flex;
+    text-align: center;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction:column ;
+    width: 160px;
+    height: 240px;
+    border-radius: 1.143vw;
+    background-color:  white;
+    box-shadow: 0px 0.571vw 1.643vw 0px #506B5221;
+  }
+  .plant img{
+    padding: 11.5px;
+    width: 138px;
+    height: 127px;
+    border-radius: 2vw;
+  }
+  .plant h3, .plant p{
+    padding: 0 11.5px;
+    color: #343434;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11.432px;
+    font-weight: 700;
+    line-height: 15.432px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .plant p{
+    font-weight: 400;
+  }
+  .plant button{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    line-height: 15.432px;
+    letter-spacing: 0em;
+    padding: 9.6px 58.4px;
+    font-size: 11.432px;
+    color: white;
+    text-align: center;
+    display: block;
+    margin: 11.5px; 
+    background-color: #50806B;
+    border: none;
+    position: absolute;
+    bottom: 0;
+    border-radius: 4.568px;
+  }
+}
+/*------------------------Footer------------------------*/
+footer{
+  position: relative;
+  height: 15vw;
+  display: block;
+  background-color: white;
+}
+.topTopFooter{
+  padding-top: 3vw;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+}
+.topTopFooter p{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.143vw;
+  font-weight: 600;
+  line-height: 1.143vw;
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 0.857vw;
+}
+.TopBottomFooter{
+  margin: 0.5vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 0.857vw;
+}
+.BottFooter{
+  text-align: center;
+  position: absolute;
+  background-color:  #50806B;
+  height: 3.929vw;
+  width: 100%;
+  bottom: 0px;
+}
+.BottFooter p{
+  text-transform: uppercase;
+  margin: 1.357vw;
+  color: #E8EDDE;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.143vw;
+  font-weight: 500;
+  line-height: 1.357vw;
+  letter-spacing: 0.143vw;
+  text-align: center;
+}
+/*------------------------Modal------------------------*/
+.modalDiv{
+  display: flex;
+  flex-direction: row;
+  height: min-content;
+}
+.modalDiv img{
+  height: 28vw;
+
+}
+.modalDiv div{
+  margin-left: 2vw;
+}
+.modalDiv div h2{
+  color: #000;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.57vw;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 3.14vw; 
+  letter-spacing: -0.14vw;
+}
+.modalDiv div .ModalCost{
+  color: #000;
+  font-family: 'Open Sans', sans-serif;
+  font-size:  1.29vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.86vw;
+  letter-spacing: -0.01vw;
+}
+.modalDiv div .ModalInfo{
+  margin-top: 1vw;
+  color:  #0D0D0D;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.43vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 2vw; 
+  letter-spacing: -0.4px;
+}
+.modalDiv div button{
+  position: absolute;
+  bottom: 0px;
+  margin-bottom: 2vw;
+  width: 25vw;
+  height: 3.57vw;
+  flex-shrink: 0;
+  border-radius: 0.86vw;
+  border: 0.07vw solid #50806B;
+  background-color:  #50806B;
+  color: white;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.14vw;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.57vw;
+  letter-spacing: -0.4px;
+  text-transform: uppercase;
+  transition: all 0.5s ease;
+}
+.modalDiv div button:hover{
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.modalDiv div button:active {
+  transform: translateY(-1px);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.modalDiv .buttonback{
+  position: absolute;
+  border: none;
+  top: 0vw;
+}
+
+/*------------------------ShopingHeader------------------------*/
+.underHeader{
+  padding: 3vw 7.79vw;
+  display: flex;
+  flex-direction: row;
+  background-color: #E8EDDE;
+
+}
+.underHeader h2{
+  color: #000;
+  font-family: 'Poppins', sans-serif;
+  font-size: 5.71vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 5.71vw;
+  letter-spacing: 0.14vw;
+}
+.underHeader p{
+  margin: 2.6vw 0 0;
+  height: 2.5vw;
+  color: #000;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.57vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.underHeader svg{
+  margin: 1.5vw 0;
+}
+/*------------------------ShopingBody------------------------*/
+.Korzina{
+  background-color: white;
+}
+.ShopingBody{
+  height: 100vh;
+}
+.ShopingBody .product{
+  position: relative;
+  text-align: center;
+  align-items: center;
+  border-radius: 0.86vw;
+  margin:  5vw 10vw;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  background-color: #E8EDDE;
+}
+.ShopingBody .product img{
+  width: 16vw;
+  margin: 1.5vw;
+}
+.ShopingBody .product h3{
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5vw;
+  font-weight: 600;
+  line-height: 4.786vw;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.ShopingBody .product button{ 
+  border: none;
+  background-color: inherit;
+}
+.ShopingBody .product .kolichProduct{
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+}
+.product p{
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5vw;
+  font-weight: 500;
+  line-height: 4.786vw;
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 1vw;
+}
+.product .delete{
+  position: absolute;
+  right: 4vw;
+}
+.ShopingBody .VsegoProducts {
+  position: relative;
+  text-align: center;
+  align-items: center;
+  border-radius: 0.86vw;
+  margin: 0 10vw 0 29vw ;
+  display: grid;
+  grid-template-columns: 33% 33% 33% ;
+  background-color: #E8EDDE;
+}
+.ShopingBody .VsegoProducts h3{
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5vw;
+  font-weight: 600;
+  line-height: 4.786vw;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.VsegoProducts p{
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5vw;
+  font-weight: 500;
+  line-height: 4.786vw;
+  letter-spacing: 0em;
+  text-align: center;
+  margin: 1vw;
+}
+.Korzina .Nothing{
+  text-align: center;
+  margin: 13% 0 0 0;
+  opacity: 80%;
+  font-size: 2vw;
+}
+.Korzina .NothingSec{
+  text-align: center;
+  opacity: 20%;
+  font-size: 2vw;
+}

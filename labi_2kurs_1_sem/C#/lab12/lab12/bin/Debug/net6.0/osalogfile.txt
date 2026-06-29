@@ -1,0 +1,15 @@
+29.12.2023 9:09:23 - Действие: GetFreeSpace, Детали: Диск: C:
+29.12.2023 9:09:23 - Действие: GetFileSystem, Детали: Диск: C:
+29.12.2023 9:09:23 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+29.12.2023 9:09:23 - Действие: PrintFullPath, Детали: Файл: C:\labi 2kurs 1 sem\C#\lab12\lab12\Hello.txt
+29.12.2023 9:09:23 - Действие: PrintFilesCount, Детали: Директория: C:\labi 2kurs 1 sem\C#\lab12\lab12
+29.12.2023 9:09:23 - Действие: PrintCreationTime, Детали: Директория: C:\labi 2kurs 1 sem\C#\lab12\lab12
+29.12.2023 9:09:23 - Действие: ExecuteActions, Детали: Created directory: C:\labi 2kurs 1 sem\C#\lab12\lab12\osaInspect
+29.12.2023 9:09:23 - Действие: ExecuteActions, Детали: Saved directory info to file: C:\labi 2kurs 1 sem\C#\lab12\lab12\osaInspect\osadirinfo.txt
+29.12.2023 9:09:23 - Действие: ExecuteActions, Детали: Copied and renamed file: C:\labi 2kurs 1 sem\C#\lab12\lab12\osaInspect\osadirinfo.txt to C:\labi 2kurs 1 sem\C#\lab12\lab12\osadirinfo_copy.txt
+29.12.2023 9:09:23 - Действие: ExecuteActions, Детали: Deleted file: C:\labi 2kurs 1 sem\C#\lab12\lab12\osaInspect\osadirinfo.txt
+29.12.2023 9:09:23 - Действие: ExecuteActions, Детали: Created directory: C:\labi 2kurs 1 sem\C#\lab12\lab12\osaFiles
+29.12.2023 9:09:25 - Действие: ExecuteActions, Детали: User entered file extension: ok
+29.12.2023 9:09:25 - Действие: ExecuteActions, Детали: Copied files with extension: ok to directory: C:\labi 2kurs 1 sem\C#\lab12\lab12\osaFiles
+29.12.2023 9:09:25 - Действие: ExecuteActions, Детали: Created archive: C:\labi 2kurs 1 sem\C#\lab12\lab12\osaInspect\osaFiles.zip
+29.12.2023 9:09:25 - Действие: ExecuteActions, Детали: Extracted archive: C:\labi 2kurs 1 sem\C#\lab12\lab12\osaInspect\osaFiles.zip to directory: C:\labi 2kurs 1 sem\C#\lab12\lab12\osaDestination

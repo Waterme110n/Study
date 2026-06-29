@@ -1,0 +1,17 @@
+D:\Учеба\C#\lab07\lab07\bin\Debug\net6.0\lab07.exe
+D:\Учеба\C#\lab07\lab07\bin\Debug\net6.0\lab07.deps.json
+D:\Учеба\C#\lab07\lab07\bin\Debug\net6.0\lab07.runtimeconfig.json
+D:\Учеба\C#\lab07\lab07\bin\Debug\net6.0\lab07.dll
+D:\Учеба\C#\lab07\lab07\bin\Debug\net6.0\lab07.pdb
+D:\Учеба\C#\lab07\lab07\obj\Debug\net6.0\lab07.csproj.AssemblyReference.cache
+D:\Учеба\C#\lab07\lab07\obj\Debug\net6.0\lab07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C#\lab07\lab07\obj\Debug\net6.0\lab07.AssemblyInfoInputs.cache
+D:\Учеба\C#\lab07\lab07\obj\Debug\net6.0\lab07.AssemblyInfo.cs
+D:\Учеба\C#\lab07\lab07\obj\Debug\net6.0\lab07.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\lab07\lab07\obj\Debug\net6.0\lab07.dll
+D:\Учеба\C#\lab07\lab07\obj\Debug\net6.0\refint\lab07.dll
+D:\Учеба\C#\lab07\lab07\obj\Debug\net6.0\lab07.pdb
+D:\Учеба\C#\lab07\lab07\obj\Debug\net6.0\lab07.genruntimeconfig.cache
+D:\Учеба\C#\lab07\lab07\obj\Debug\net6.0\ref\lab07.dll
+D:\Учеба\C#\lab07\lab07\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Учеба\C#\lab07\lab07\obj\Debug\net6.0\lab07.csproj.CopyComplete

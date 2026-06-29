@@ -1,0 +1,15 @@
+D:\Учеба\C#\lab09\lab09\bin\Debug\net6.0\lab09.exe
+D:\Учеба\C#\lab09\lab09\bin\Debug\net6.0\lab09.deps.json
+D:\Учеба\C#\lab09\lab09\bin\Debug\net6.0\lab09.runtimeconfig.json
+D:\Учеба\C#\lab09\lab09\bin\Debug\net6.0\lab09.dll
+D:\Учеба\C#\lab09\lab09\bin\Debug\net6.0\lab09.pdb
+D:\Учеба\C#\lab09\lab09\obj\Debug\net6.0\lab09.csproj.AssemblyReference.cache
+D:\Учеба\C#\lab09\lab09\obj\Debug\net6.0\lab09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C#\lab09\lab09\obj\Debug\net6.0\lab09.AssemblyInfoInputs.cache
+D:\Учеба\C#\lab09\lab09\obj\Debug\net6.0\lab09.AssemblyInfo.cs
+D:\Учеба\C#\lab09\lab09\obj\Debug\net6.0\lab09.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\lab09\lab09\obj\Debug\net6.0\lab09.dll
+D:\Учеба\C#\lab09\lab09\obj\Debug\net6.0\refint\lab09.dll
+D:\Учеба\C#\lab09\lab09\obj\Debug\net6.0\lab09.pdb
+D:\Учеба\C#\lab09\lab09\obj\Debug\net6.0\lab09.genruntimeconfig.cache
+D:\Учеба\C#\lab09\lab09\obj\Debug\net6.0\ref\lab09.dll

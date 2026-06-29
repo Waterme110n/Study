@@ -1,0 +1,5 @@
+C:\labi 2kurs 1 sem\C#\lab12\lab12\bin
+C:\labi 2kurs 1 sem\C#\lab12\lab12\lab12.csproj
+C:\labi 2kurs 1 sem\C#\lab12\lab12\obj
+C:\labi 2kurs 1 sem\C#\lab12\lab12\osaInspect
+C:\labi 2kurs 1 sem\C#\lab12\lab12\Program.cs

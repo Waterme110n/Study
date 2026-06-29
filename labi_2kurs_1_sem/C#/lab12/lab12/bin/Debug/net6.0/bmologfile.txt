@@ -1,0 +1,17 @@
+10.11.2023 18:09:05 - Действие: GetFreeSpace, Детали: Диск: C:
+10.11.2023 18:09:05 - Действие: GetFileSystem, Детали: Диск: C:
+10.11.2023 18:09:05 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+10.11.2023 18:09:05 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+10.11.2023 18:09:05 - Действие: PrintFullPath, Детали: Файл: D:\Учеба\C#\new\Hello.txt
+10.11.2023 18:09:05 - Действие: PrintFileInfo, Детали: Файл: D:\Учеба\C#\new\Hello.txt
+10.11.2023 18:09:05 - Действие: PrintFilesCount, Детали: Директория: D:\Учеба
+10.11.2023 18:09:05 - Действие: PrintCreationTime, Детали: Директория: D:\Учеба
+10.11.2023 18:09:05 - Действие: ExecuteActions, Детали: Created directory: D:\BMOInspect
+10.11.2023 18:09:05 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\BMOInspect\BMOdirinfo.txt
+10.11.2023 18:09:05 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\BMOInspect\BMOdirinfo.txt to D:\BMOdirinfo_copy.txt
+10.11.2023 18:09:05 - Действие: ExecuteActions, Детали: Deleted file: D:\BMOInspect\BMOdirinfo.txt
+10.11.2023 18:09:05 - Действие: ExecuteActions, Детали: Created directory: D:\BMOFiles
+10.11.2023 18:09:12 - Действие: ExecuteActions, Детали: User entered file extension: txt
+10.11.2023 18:09:12 - Действие: ExecuteActions, Детали: Copied files with extension: txt to directory: D:\BMOFiles
+10.11.2023 18:09:12 - Действие: ExecuteActions, Детали: Created archive: D:\BMOInspect\BMOFiles.zip
+10.11.2023 18:09:12 - Действие: ExecuteActions, Детали: Extracted archive: D:\BMOInspect\BMOFiles.zip to directory: D:\BMODestination

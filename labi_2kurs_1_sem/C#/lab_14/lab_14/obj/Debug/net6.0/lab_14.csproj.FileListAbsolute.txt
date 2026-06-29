@@ -1,0 +1,29 @@
+D:\Учеба\C#\lab_14\lab_14\bin\Debug\net6.0\lab_14.exe
+D:\Учеба\C#\lab_14\lab_14\bin\Debug\net6.0\lab_14.deps.json
+D:\Учеба\C#\lab_14\lab_14\bin\Debug\net6.0\lab_14.runtimeconfig.json
+D:\Учеба\C#\lab_14\lab_14\bin\Debug\net6.0\lab_14.dll
+D:\Учеба\C#\lab_14\lab_14\bin\Debug\net6.0\lab_14.pdb
+D:\Учеба\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.csproj.AssemblyReference.cache
+D:\Учеба\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.AssemblyInfoInputs.cache
+D:\Учеба\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.AssemblyInfo.cs
+D:\Учеба\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.dll
+D:\Учеба\C#\lab_14\lab_14\obj\Debug\net6.0\refint\lab_14.dll
+D:\Учеба\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.pdb
+D:\Учеба\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.genruntimeconfig.cache
+D:\Учеба\C#\lab_14\lab_14\obj\Debug\net6.0\ref\lab_14.dll
+C:\labi 2kurs 1 sem\C#\lab_14\lab_14\bin\Debug\net6.0\lab_14.exe
+C:\labi 2kurs 1 sem\C#\lab_14\lab_14\bin\Debug\net6.0\lab_14.deps.json
+C:\labi 2kurs 1 sem\C#\lab_14\lab_14\bin\Debug\net6.0\lab_14.runtimeconfig.json
+C:\labi 2kurs 1 sem\C#\lab_14\lab_14\bin\Debug\net6.0\lab_14.dll
+C:\labi 2kurs 1 sem\C#\lab_14\lab_14\bin\Debug\net6.0\lab_14.pdb
+C:\labi 2kurs 1 sem\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\labi 2kurs 1 sem\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.AssemblyInfoInputs.cache
+C:\labi 2kurs 1 sem\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.AssemblyInfo.cs
+C:\labi 2kurs 1 sem\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.csproj.CoreCompileInputs.cache
+C:\labi 2kurs 1 sem\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.dll
+C:\labi 2kurs 1 sem\C#\lab_14\lab_14\obj\Debug\net6.0\refint\lab_14.dll
+C:\labi 2kurs 1 sem\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.pdb
+C:\labi 2kurs 1 sem\C#\lab_14\lab_14\obj\Debug\net6.0\lab_14.genruntimeconfig.cache
+C:\labi 2kurs 1 sem\C#\lab_14\lab_14\obj\Debug\net6.0\ref\lab_14.dll

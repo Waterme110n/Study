@@ -1,0 +1,34 @@
+D:\Учеба\C#\lab11\lab11\obj\Debug\net6.0\lab11.csproj.AssemblyReference.cache
+D:\Учеба\C#\lab11\lab11\obj\Debug\net6.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C#\lab11\lab11\obj\Debug\net6.0\lab11.AssemblyInfoInputs.cache
+D:\Учеба\C#\lab11\lab11\obj\Debug\net6.0\lab11.AssemblyInfo.cs
+D:\Учеба\C#\lab11\lab11\obj\Debug\net6.0\lab11.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\lab11\lab11\bin\Debug\net6.0\lab11.exe
+D:\Учеба\C#\lab11\lab11\bin\Debug\net6.0\lab11.deps.json
+D:\Учеба\C#\lab11\lab11\bin\Debug\net6.0\lab11.runtimeconfig.json
+D:\Учеба\C#\lab11\lab11\bin\Debug\net6.0\lab11.dll
+D:\Учеба\C#\lab11\lab11\bin\Debug\net6.0\lab11.pdb
+D:\Учеба\C#\lab11\lab11\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Учеба\C#\lab11\lab11\obj\Debug\net6.0\lab11.csproj.CopyComplete
+D:\Учеба\C#\lab11\lab11\obj\Debug\net6.0\lab11.dll
+D:\Учеба\C#\lab11\lab11\obj\Debug\net6.0\refint\lab11.dll
+D:\Учеба\C#\lab11\lab11\obj\Debug\net6.0\lab11.pdb
+D:\Учеба\C#\lab11\lab11\obj\Debug\net6.0\lab11.genruntimeconfig.cache
+D:\Учеба\C#\lab11\lab11\obj\Debug\net6.0\ref\lab11.dll
+C:\labi 2kurs 1 sem\C#\lab11\lab11\bin\Debug\net6.0\lab11.exe
+C:\labi 2kurs 1 sem\C#\lab11\lab11\bin\Debug\net6.0\lab11.deps.json
+C:\labi 2kurs 1 sem\C#\lab11\lab11\bin\Debug\net6.0\lab11.runtimeconfig.json
+C:\labi 2kurs 1 sem\C#\lab11\lab11\bin\Debug\net6.0\lab11.dll
+C:\labi 2kurs 1 sem\C#\lab11\lab11\bin\Debug\net6.0\lab11.pdb
+C:\labi 2kurs 1 sem\C#\lab11\lab11\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\labi 2kurs 1 sem\C#\lab11\lab11\obj\Debug\net6.0\lab11.csproj.AssemblyReference.cache
+C:\labi 2kurs 1 sem\C#\lab11\lab11\obj\Debug\net6.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\labi 2kurs 1 sem\C#\lab11\lab11\obj\Debug\net6.0\lab11.AssemblyInfoInputs.cache
+C:\labi 2kurs 1 sem\C#\lab11\lab11\obj\Debug\net6.0\lab11.AssemblyInfo.cs
+C:\labi 2kurs 1 sem\C#\lab11\lab11\obj\Debug\net6.0\lab11.csproj.CoreCompileInputs.cache
+C:\labi 2kurs 1 sem\C#\lab11\lab11\obj\Debug\net6.0\lab11.csproj.CopyComplete
+C:\labi 2kurs 1 sem\C#\lab11\lab11\obj\Debug\net6.0\lab11.dll
+C:\labi 2kurs 1 sem\C#\lab11\lab11\obj\Debug\net6.0\refint\lab11.dll
+C:\labi 2kurs 1 sem\C#\lab11\lab11\obj\Debug\net6.0\lab11.pdb
+C:\labi 2kurs 1 sem\C#\lab11\lab11\obj\Debug\net6.0\lab11.genruntimeconfig.cache
+C:\labi 2kurs 1 sem\C#\lab11\lab11\obj\Debug\net6.0\ref\lab11.dll

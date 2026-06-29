@@ -1,0 +1,29 @@
+D:\Учеба\C#\lab04\lab04\bin\Debug\net6.0\lab04.exe
+D:\Учеба\C#\lab04\lab04\bin\Debug\net6.0\lab04.deps.json
+D:\Учеба\C#\lab04\lab04\bin\Debug\net6.0\lab04.runtimeconfig.json
+D:\Учеба\C#\lab04\lab04\bin\Debug\net6.0\lab04.dll
+D:\Учеба\C#\lab04\lab04\bin\Debug\net6.0\lab04.pdb
+D:\Учеба\C#\lab04\lab04\obj\Debug\net6.0\lab04.csproj.AssemblyReference.cache
+D:\Учеба\C#\lab04\lab04\obj\Debug\net6.0\lab04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C#\lab04\lab04\obj\Debug\net6.0\lab04.AssemblyInfoInputs.cache
+D:\Учеба\C#\lab04\lab04\obj\Debug\net6.0\lab04.AssemblyInfo.cs
+D:\Учеба\C#\lab04\lab04\obj\Debug\net6.0\lab04.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\lab04\lab04\obj\Debug\net6.0\lab04.dll
+D:\Учеба\C#\lab04\lab04\obj\Debug\net6.0\refint\lab04.dll
+D:\Учеба\C#\lab04\lab04\obj\Debug\net6.0\lab04.pdb
+D:\Учеба\C#\lab04\lab04\obj\Debug\net6.0\lab04.genruntimeconfig.cache
+D:\Учеба\C#\lab04\lab04\obj\Debug\net6.0\ref\lab04.dll
+C:\labi 2kurs 1 sem\C#\lab04\lab04\bin\Debug\net6.0\lab04.exe
+C:\labi 2kurs 1 sem\C#\lab04\lab04\bin\Debug\net6.0\lab04.deps.json
+C:\labi 2kurs 1 sem\C#\lab04\lab04\bin\Debug\net6.0\lab04.runtimeconfig.json
+C:\labi 2kurs 1 sem\C#\lab04\lab04\bin\Debug\net6.0\lab04.dll
+C:\labi 2kurs 1 sem\C#\lab04\lab04\bin\Debug\net6.0\lab04.pdb
+C:\labi 2kurs 1 sem\C#\lab04\lab04\obj\Debug\net6.0\lab04.GeneratedMSBuildEditorConfig.editorconfig
+C:\labi 2kurs 1 sem\C#\lab04\lab04\obj\Debug\net6.0\lab04.AssemblyInfoInputs.cache
+C:\labi 2kurs 1 sem\C#\lab04\lab04\obj\Debug\net6.0\lab04.AssemblyInfo.cs
+C:\labi 2kurs 1 sem\C#\lab04\lab04\obj\Debug\net6.0\lab04.csproj.CoreCompileInputs.cache
+C:\labi 2kurs 1 sem\C#\lab04\lab04\obj\Debug\net6.0\lab04.dll
+C:\labi 2kurs 1 sem\C#\lab04\lab04\obj\Debug\net6.0\refint\lab04.dll
+C:\labi 2kurs 1 sem\C#\lab04\lab04\obj\Debug\net6.0\lab04.pdb
+C:\labi 2kurs 1 sem\C#\lab04\lab04\obj\Debug\net6.0\lab04.genruntimeconfig.cache
+C:\labi 2kurs 1 sem\C#\lab04\lab04\obj\Debug\net6.0\ref\lab04.dll

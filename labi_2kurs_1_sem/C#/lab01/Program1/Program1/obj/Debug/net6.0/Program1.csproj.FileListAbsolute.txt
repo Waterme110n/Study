@@ -1,0 +1,15 @@
+D:\Учеба\C#\lab01\Program1\Program1\bin\Debug\net6.0\Program1.exe
+D:\Учеба\C#\lab01\Program1\Program1\bin\Debug\net6.0\Program1.deps.json
+D:\Учеба\C#\lab01\Program1\Program1\bin\Debug\net6.0\Program1.runtimeconfig.json
+D:\Учеба\C#\lab01\Program1\Program1\bin\Debug\net6.0\Program1.dll
+D:\Учеба\C#\lab01\Program1\Program1\bin\Debug\net6.0\Program1.pdb
+D:\Учеба\C#\lab01\Program1\Program1\obj\Debug\net6.0\Program1.csproj.AssemblyReference.cache
+D:\Учеба\C#\lab01\Program1\Program1\obj\Debug\net6.0\Program1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C#\lab01\Program1\Program1\obj\Debug\net6.0\Program1.AssemblyInfoInputs.cache
+D:\Учеба\C#\lab01\Program1\Program1\obj\Debug\net6.0\Program1.AssemblyInfo.cs
+D:\Учеба\C#\lab01\Program1\Program1\obj\Debug\net6.0\Program1.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\lab01\Program1\Program1\obj\Debug\net6.0\Program1.dll
+D:\Учеба\C#\lab01\Program1\Program1\obj\Debug\net6.0\refint\Program1.dll
+D:\Учеба\C#\lab01\Program1\Program1\obj\Debug\net6.0\Program1.pdb
+D:\Учеба\C#\lab01\Program1\Program1\obj\Debug\net6.0\Program1.genruntimeconfig.cache
+D:\Учеба\C#\lab01\Program1\Program1\obj\Debug\net6.0\ref\Program1.dll

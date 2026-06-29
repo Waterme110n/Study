@@ -1,0 +1,7 @@
+C:\labi 2kurs 1 sem\Комп сети\exam\exam\bin\Debug\exam.exe.config
+C:\labi 2kurs 1 sem\Комп сети\exam\exam\bin\Debug\exam.exe
+C:\labi 2kurs 1 sem\Комп сети\exam\exam\bin\Debug\exam.pdb
+C:\labi 2kurs 1 sem\Комп сети\exam\exam\obj\Debug\exam.csproj.AssemblyReference.cache
+C:\labi 2kurs 1 sem\Комп сети\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\labi 2kurs 1 sem\Комп сети\exam\exam\obj\Debug\exam.exe
+C:\labi 2kurs 1 sem\Комп сети\exam\exam\obj\Debug\exam.pdb

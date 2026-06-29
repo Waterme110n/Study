@@ -1,0 +1,29 @@
+D:\Учеба\C#\lab12\lab12\bin\Debug\net6.0\lab12.exe
+D:\Учеба\C#\lab12\lab12\bin\Debug\net6.0\lab12.deps.json
+D:\Учеба\C#\lab12\lab12\bin\Debug\net6.0\lab12.runtimeconfig.json
+D:\Учеба\C#\lab12\lab12\bin\Debug\net6.0\lab12.dll
+D:\Учеба\C#\lab12\lab12\bin\Debug\net6.0\lab12.pdb
+D:\Учеба\C#\lab12\lab12\obj\Debug\net6.0\lab12.csproj.AssemblyReference.cache
+D:\Учеба\C#\lab12\lab12\obj\Debug\net6.0\lab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C#\lab12\lab12\obj\Debug\net6.0\lab12.AssemblyInfoInputs.cache
+D:\Учеба\C#\lab12\lab12\obj\Debug\net6.0\lab12.AssemblyInfo.cs
+D:\Учеба\C#\lab12\lab12\obj\Debug\net6.0\lab12.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\lab12\lab12\obj\Debug\net6.0\lab12.dll
+D:\Учеба\C#\lab12\lab12\obj\Debug\net6.0\refint\lab12.dll
+D:\Учеба\C#\lab12\lab12\obj\Debug\net6.0\lab12.pdb
+D:\Учеба\C#\lab12\lab12\obj\Debug\net6.0\lab12.genruntimeconfig.cache
+D:\Учеба\C#\lab12\lab12\obj\Debug\net6.0\ref\lab12.dll
+C:\labi 2kurs 1 sem\C#\lab12\lab12\bin\Debug\net6.0\lab12.exe
+C:\labi 2kurs 1 sem\C#\lab12\lab12\bin\Debug\net6.0\lab12.deps.json
+C:\labi 2kurs 1 sem\C#\lab12\lab12\bin\Debug\net6.0\lab12.runtimeconfig.json
+C:\labi 2kurs 1 sem\C#\lab12\lab12\bin\Debug\net6.0\lab12.dll
+C:\labi 2kurs 1 sem\C#\lab12\lab12\bin\Debug\net6.0\lab12.pdb
+C:\labi 2kurs 1 sem\C#\lab12\lab12\obj\Debug\net6.0\lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\labi 2kurs 1 sem\C#\lab12\lab12\obj\Debug\net6.0\lab12.AssemblyInfoInputs.cache
+C:\labi 2kurs 1 sem\C#\lab12\lab12\obj\Debug\net6.0\lab12.AssemblyInfo.cs
+C:\labi 2kurs 1 sem\C#\lab12\lab12\obj\Debug\net6.0\lab12.csproj.CoreCompileInputs.cache
+C:\labi 2kurs 1 sem\C#\lab12\lab12\obj\Debug\net6.0\lab12.dll
+C:\labi 2kurs 1 sem\C#\lab12\lab12\obj\Debug\net6.0\refint\lab12.dll
+C:\labi 2kurs 1 sem\C#\lab12\lab12\obj\Debug\net6.0\lab12.pdb
+C:\labi 2kurs 1 sem\C#\lab12\lab12\obj\Debug\net6.0\lab12.genruntimeconfig.cache
+C:\labi 2kurs 1 sem\C#\lab12\lab12\obj\Debug\net6.0\ref\lab12.dll

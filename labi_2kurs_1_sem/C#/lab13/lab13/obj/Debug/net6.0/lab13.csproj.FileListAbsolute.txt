@@ -1,0 +1,36 @@
+D:\Учеба\C#\lab13\lab13\bin\Debug\net6.0\lab13.exe
+D:\Учеба\C#\lab13\lab13\bin\Debug\net6.0\lab13.deps.json
+D:\Учеба\C#\lab13\lab13\bin\Debug\net6.0\lab13.runtimeconfig.json
+D:\Учеба\C#\lab13\lab13\bin\Debug\net6.0\lab13.dll
+D:\Учеба\C#\lab13\lab13\bin\Debug\net6.0\lab13.pdb
+D:\Учеба\C#\lab13\lab13\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Учеба\C#\lab13\lab13\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\Учеба\C#\lab13\lab13\obj\Debug\net6.0\lab13.csproj.AssemblyReference.cache
+D:\Учеба\C#\lab13\lab13\obj\Debug\net6.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C#\lab13\lab13\obj\Debug\net6.0\lab13.AssemblyInfoInputs.cache
+D:\Учеба\C#\lab13\lab13\obj\Debug\net6.0\lab13.AssemblyInfo.cs
+D:\Учеба\C#\lab13\lab13\obj\Debug\net6.0\lab13.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\lab13\lab13\obj\Debug\net6.0\lab13.csproj.CopyComplete
+D:\Учеба\C#\lab13\lab13\obj\Debug\net6.0\lab13.dll
+D:\Учеба\C#\lab13\lab13\obj\Debug\net6.0\refint\lab13.dll
+D:\Учеба\C#\lab13\lab13\obj\Debug\net6.0\lab13.pdb
+D:\Учеба\C#\lab13\lab13\obj\Debug\net6.0\lab13.genruntimeconfig.cache
+D:\Учеба\C#\lab13\lab13\obj\Debug\net6.0\ref\lab13.dll
+C:\labi 2kurs 1 sem\C#\lab13\lab13\obj\Debug\net6.0\lab13.dll
+C:\labi 2kurs 1 sem\C#\lab13\lab13\obj\Debug\net6.0\refint\lab13.dll
+C:\labi 2kurs 1 sem\C#\lab13\lab13\obj\Debug\net6.0\lab13.pdb
+C:\labi 2kurs 1 sem\C#\lab13\lab13\bin\Debug\net6.0\lab13.exe
+C:\labi 2kurs 1 sem\C#\lab13\lab13\bin\Debug\net6.0\lab13.deps.json
+C:\labi 2kurs 1 sem\C#\lab13\lab13\bin\Debug\net6.0\lab13.runtimeconfig.json
+C:\labi 2kurs 1 sem\C#\lab13\lab13\bin\Debug\net6.0\lab13.dll
+C:\labi 2kurs 1 sem\C#\lab13\lab13\bin\Debug\net6.0\lab13.pdb
+C:\labi 2kurs 1 sem\C#\lab13\lab13\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\labi 2kurs 1 sem\C#\lab13\lab13\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\labi 2kurs 1 sem\C#\lab13\lab13\obj\Debug\net6.0\lab13.csproj.AssemblyReference.cache
+C:\labi 2kurs 1 sem\C#\lab13\lab13\obj\Debug\net6.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\labi 2kurs 1 sem\C#\lab13\lab13\obj\Debug\net6.0\lab13.AssemblyInfoInputs.cache
+C:\labi 2kurs 1 sem\C#\lab13\lab13\obj\Debug\net6.0\lab13.AssemblyInfo.cs
+C:\labi 2kurs 1 sem\C#\lab13\lab13\obj\Debug\net6.0\lab13.csproj.CoreCompileInputs.cache
+C:\labi 2kurs 1 sem\C#\lab13\lab13\obj\Debug\net6.0\lab13.csproj.CopyComplete
+C:\labi 2kurs 1 sem\C#\lab13\lab13\obj\Debug\net6.0\lab13.genruntimeconfig.cache
+C:\labi 2kurs 1 sem\C#\lab13\lab13\obj\Debug\net6.0\ref\lab13.dll
