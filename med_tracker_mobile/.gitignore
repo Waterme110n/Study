@@ -1,0 +1,60 @@
+# Dart/Flutter
+.dart_tool/
+.pub/
+.pub-cache/
+.packages
+build/
+flutter_*.png
+*.lock
+
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+android/app/build/
+android/app/.cxx/
+android/app/*.iml
+android/*.iml
+
+# iOS/macOS
+**/ios/.symlinks/
+**/ios/Pods/
+**/ios/Flutter/App.framework/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Generated.xcconfig
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/.generated/
+**/ios/Podfile.lock
+**/macos/Pods/
+**/macos/Flutter/GeneratedPluginRegistrant.*
+
+# Windows
+**/windows/GeneratedPluginRegistrant.*
+**/windows/Flutter/GeneratedPluginRegistrant.*
+**/windows/CMakeUserPresets.json
+**/windows/Runner/GeneratedPluginRegistrant.*
+**/windows/out/
+**/windows/Debug/
+**/windows/Release/
+
+# Web
+**/web/*.dart.js
+**/web/*.dart.js.map
+**/web/*.wasm
+**/web/*.json
+**/web/*.png
+**/web/FontManifest.json
+
+# Общие
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.log
+*.tmp
