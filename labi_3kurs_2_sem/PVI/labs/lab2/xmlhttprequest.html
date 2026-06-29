@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>XMLHttpRequest Example</title>
+</head>
+<body>
+    <p id="fullname">Загрузка...</p>
+
+    <script>
+        const xhr = new XMLHttpRequest();
+        xhr.open("GET", "http://localhost:5000/api/name", true);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                const data = JSON.parse(xhr.responseText);
+                document.getElementById("fullname").textContent =
+                    `${data.lastName} ${data.firstName} ${data.middleName}`;
+            }
+        };
+        xhr.send();
+    </script>
+</body>
+</html>

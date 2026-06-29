@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Факториалы (setImmediate)</title>
+</head>
+<body>
+    <h1>Результаты вычислений</h1>
+    <ul id="results"></ul>
+    
+    <script>
+      async function fetchAll() {
+          const startTime = performance.now();
+
+          for (let x = 1; x <= 20; x++) {
+              const elapsedTime = Math.round(performance.now() - startTime); 
+              await fetchFactorial(x, elapsedTime);
+          }
+      }
+
+      async function fetchFactorial(k, elapsedTime) {
+          try {
+              let response = await fetch(`/fact?k=${k}`);
+              let data = await response.json();
+              document.getElementById("results").innerHTML += `<li>Результат: ${elapsedTime}-${data.k}/${data.fact}</li>`;
+          } catch (error) {
+              console.error("Ошибка запроса: ", error);
+          }
+      }
+
+      fetchAll();
+    </script>
+</body>
+</html>

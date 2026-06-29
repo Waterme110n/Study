@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Управление Кафедрами</title>
+	<style>
+		.section {
+			margin: 20px;
+			padding: 15px;
+			border: 1px solid #ddd;
+			border-radius: 5px;
+		}
+
+		pre {
+			background: #f4f4f4;
+			padding: 10px;
+			overflow-x: auto;
+		}
+
+		.form-group {
+			margin: 10px 0;
+		}
+
+		input,
+		button {
+			padding: 8px;
+			margin: 5px;
+			width: 200px;
+		}
+
+		button {
+			background: #4CAF50;
+			color: white;
+			border: none;
+			cursor: pointer;
+		}
+
+		button:hover {
+			background: #45a049;
+		}
+
+		.error {
+			color: red;
+		}
+	</style>
+</head>
+
+<body>
+	<h1>Управление Кафедрами</h1>
+
+	<!-- Секция GET -->
+	<div class="section">
+		<h2>Все Кафедры</h2>
+		<button onclick="getPulpits()">Обновить список</button>
+		<pre id="pulpits-result"></pre>
+	</div>
+
+	<!-- Секция POST -->
+	<div class="section">
+		<h2>Добавить Кафедру</h2>
+		<div class="form-group">
+			<input type="text" id="postPulpit" placeholder="Код кафедры">
+			<input type="text" id="postName" placeholder="Название">
+			<input type="text" id="postFaculty" placeholder="Код факультета">
+		</div>
+		<button onclick="handlePost()">Добавить</button>
+		<pre id="post-result"></pre>
+	</div>
+
+	<!-- Секция PUT -->
+	<div class="section">
+		<h2>Изменить Кафедру</h2>
+		<div class="form-group">
+			<input type="text" id="putPulpit" placeholder="Код кафедры">
+			<input type="text" id="putName" placeholder="Новое название">
+			<input type="text" id="putFaculty" placeholder="Новый факультет">
+		</div>
+		<button onclick="handlePut()">Изменить</button>
+		<pre id="put-result"></pre>
+	</div>
+
+	<!-- Секция DELETE -->
+	<div class="section">
+		<h2>Удалить Кафедру</h2>
+		<div class="form-group">
+			<input type="text" id="deletePulpit" placeholder="Код кафедры">
+		</div>
+		<button onclick="handleDelete()">Удалить</button>
+		<pre id="delete-result"></pre>
+	</div>
+
+	<script>
+		const API_BASE = 'http://localhost:3000/api';
+
+		// Общая функция для запросов
+		async function makeRequest(url, method, body = null) {
+			try {
+				const options = {
+					method,
+					headers: { 'Content-Type': 'application/json' }
+				};
+				if (body) options.body = JSON.stringify(body);
+
+				const response = await fetch(url, options);
+				const data = await response.json();
+
+				if (!response.ok) throw new Error(data.error || 'Ошибка запроса');
+				return data;
+			} catch (err) {
+				showError(err.message);
+				throw err;
+			}
+		}
+
+		// GET: Получить все кафедры
+		async function getPulpits() {
+			try {
+				const data = await makeRequest(`${API_BASE}/pulpits`, 'GET');
+				document.getElementById('pulpits-result').innerHTML = JSON.stringify(data, null, 2);
+			} catch (err) { }
+		}
+
+		// POST: Создать кафедру
+		async function handlePost() {
+			const pulpit = {
+				pulpit: document.getElementById('postPulpit').value,
+				pulpit_name: document.getElementById('postName').value,
+				faculty: document.getElementById('postFaculty').value
+			};
+
+			try {
+				const result = await makeRequest(`${API_BASE}/pulpits`, 'POST', pulpit);
+				document.getElementById('post-result').innerHTML = JSON.stringify(result, null, 2);
+				getPulpits(); // Обновляем список
+			} catch (err) { }
+		}
+
+		// PUT: Изменить кафедру
+		async function handlePut() {
+			const pulpit = {
+				pulpit: document.getElementById('putPulpit').value,
+				pulpit_name: document.getElementById('putName').value,
+				faculty: document.getElementById('putFaculty').value
+			};
+
+			try {
+				const result = await makeRequest(`${API_BASE}/pulpits`, 'PUT', pulpit);
+				document.getElementById('put-result').innerHTML = JSON.stringify(result, null, 2);
+				getPulpits(); // Обновляем список
+			} catch (err) { }
+		}
+
+		// DELETE: Удалить кафедру
+		async function handleDelete() {
+			const pulpitId = document.getElementById('deletePulpit').value;
+
+			try {
+				const result = await makeRequest(`${API_BASE}/pulpits/${pulpitId}`, 'DELETE');
+				document.getElementById('delete-result').innerHTML = JSON.stringify(result, null, 2);
+				getPulpits(); // Обновляем список
+			} catch (err) { }
+		}
+
+		// Показать ошибки
+		function showError(message) {
+			const errorDiv = document.createElement('div');
+			errorDiv.className = 'error';
+			errorDiv.textContent = `Ошибка: ${message}`;
+			document.body.appendChild(errorDiv);
+			setTimeout(() => errorDiv.remove(), 3000);
+		}
+	</script>
+</body>
+
+</html>

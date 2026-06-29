@@ -1,0 +1,171 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Страница — 1" id="-zF7Yvt4A1iRRhmpbzhL">
+    <mxGraphModel dx="1247" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-1" value="Вход / Регистрация" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.964;exitY=0.045;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zgGxPce-s5TaZg-LyoU0-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="340" as="sourcePoint" />
+            <mxPoint x="200" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="146" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="370" as="sourcePoint" />
+            <mxPoint x="210" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.99;exitY=0.912;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zgGxPce-s5TaZg-LyoU0-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="493" as="sourcePoint" />
+            <mxPoint x="204" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-5" value="Просмотр ленты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="370" as="sourcePoint" />
+            <mxPoint x="390" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-7" value="Выбор понравившейся картинки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="370" as="sourcePoint" />
+            <mxPoint x="570" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-9" value="Просмотр похожик картин" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="746" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-10" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Это окончательная&amp;nbsp; &amp;nbsp; &amp;nbsp;картинка?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.964;exitY=0.045;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="370" as="sourcePoint" />
+            <mxPoint x="744" y="317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-12" value="да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.975;exitY=0.965;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="368" as="sourcePoint" />
+            <mxPoint x="747" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-14" value="нет&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="zgGxPce-s5TaZg-LyoU0-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="866" y="409.29" as="sourcePoint" />
+            <mxPoint x="926" y="409.29" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="409" />
+              <mxPoint x="880" y="470" />
+              <mxPoint x="450" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-16" value="Нажимаем на скачивание картинки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="744" y="289" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-17" value="Ввод в поиск темы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="589" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="324" y="619" as="sourcePoint" />
+            <mxPoint x="384" y="619" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-19" value="Просмотр результатов&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="589" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="504" y="618" as="sourcePoint" />
+            <mxPoint x="564" y="618" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-21" value="Выбор понравившейся картинки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="588" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="619" as="sourcePoint" />
+            <mxPoint x="744" y="619" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-23" value="Просмотр комментариев" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="743" y="589" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="863" y="619" as="sourcePoint" />
+            <mxPoint x="923" y="619" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-25" value="Скачивание картины" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="922" y="589" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-26" value="Вход в свой профиль" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="170" as="sourcePoint" />
+            <mxPoint x="380" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-28" value="Создание группы (доски)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="170" as="sourcePoint" />
+            <mxPoint x="560" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-30" value="Просмотр ленты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="170" as="sourcePoint" />
+            <mxPoint x="920" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-32" value="Добавление картинки на свою доску" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="170" as="sourcePoint" />
+            <mxPoint x="740" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgGxPce-s5TaZg-LyoU0-34" value="Выбор понравившейся картинки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Fetch API Example</title>
+</head>
+<body>
+    <p id="fullname">Загрузка...</p>
+
+    <script>
+        fetch("/api/name")
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById("fullname").textContent =
+                    `${data.lastName} ${data.firstName} ${data.middleName}`;
+            })
+            .catch(error => console.error("Ошибка:", error));
+    </script>
+</body>
+</html>

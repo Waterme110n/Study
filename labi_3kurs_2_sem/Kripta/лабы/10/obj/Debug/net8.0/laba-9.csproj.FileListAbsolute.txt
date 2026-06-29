@@ -1,0 +1,29 @@
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\bin\Debug\net8.0\laba-9.exe
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\bin\Debug\net8.0\laba-9.deps.json
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\bin\Debug\net8.0\laba-9.runtimeconfig.json
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\bin\Debug\net8.0\laba-9.dll
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\bin\Debug\net8.0\laba-9.pdb
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\obj\Debug\net8.0\laba-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\obj\Debug\net8.0\laba-9.AssemblyInfoInputs.cache
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\obj\Debug\net8.0\laba-9.AssemblyInfo.cs
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\obj\Debug\net8.0\laba-9.csproj.CoreCompileInputs.cache
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\obj\Debug\net8.0\laba-9.sourcelink.json
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\obj\Debug\net8.0\laba-9.dll
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\obj\Debug\net8.0\refint\laba-9.dll
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\obj\Debug\net8.0\laba-9.pdb
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\obj\Debug\net8.0\laba-9.genruntimeconfig.cache
+C:\Users\Dima00138\Documents\ПОИБМС-7\Защита информации\laba-9\obj\Debug\net8.0\ref\laba-9.dll
+C:\labi_3kurs_2_sem\Kripta\лабы\10\bin\Debug\net8.0\laba-9.exe
+C:\labi_3kurs_2_sem\Kripta\лабы\10\bin\Debug\net8.0\laba-9.deps.json
+C:\labi_3kurs_2_sem\Kripta\лабы\10\bin\Debug\net8.0\laba-9.runtimeconfig.json
+C:\labi_3kurs_2_sem\Kripta\лабы\10\bin\Debug\net8.0\laba-9.dll
+C:\labi_3kurs_2_sem\Kripta\лабы\10\bin\Debug\net8.0\laba-9.pdb
+C:\labi_3kurs_2_sem\Kripta\лабы\10\obj\Debug\net8.0\laba-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\labi_3kurs_2_sem\Kripta\лабы\10\obj\Debug\net8.0\laba-9.AssemblyInfoInputs.cache
+C:\labi_3kurs_2_sem\Kripta\лабы\10\obj\Debug\net8.0\laba-9.AssemblyInfo.cs
+C:\labi_3kurs_2_sem\Kripta\лабы\10\obj\Debug\net8.0\laba-9.csproj.CoreCompileInputs.cache
+C:\labi_3kurs_2_sem\Kripta\лабы\10\obj\Debug\net8.0\laba-9.dll
+C:\labi_3kurs_2_sem\Kripta\лабы\10\obj\Debug\net8.0\refint\laba-9.dll
+C:\labi_3kurs_2_sem\Kripta\лабы\10\obj\Debug\net8.0\laba-9.pdb
+C:\labi_3kurs_2_sem\Kripta\лабы\10\obj\Debug\net8.0\laba-9.genruntimeconfig.cache
+C:\labi_3kurs_2_sem\Kripta\лабы\10\obj\Debug\net8.0\ref\laba-9.dll

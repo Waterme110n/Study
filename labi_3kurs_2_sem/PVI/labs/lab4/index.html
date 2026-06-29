@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Управление БД</title>
+</head>
+<body>
+    <h1>Работа с БД</h1>
+
+    <h3>Добавить запись</h3>
+    <input type="text" id="name" placeholder="Имя">
+    <input type="date" id="bday">
+    <button onclick="addRecord()">Добавить</button>
+
+    <h3>Изменить запись</h3>
+    <input type="number" id="updateId" placeholder="ID">
+    <input type="text" id="updateName" placeholder="Имя">
+    <input type="date" id="updateBday">
+    <button onclick="updateRecord()">Обновить</button>
+
+    <h3>Удалить запись</h3>
+    <input type="number" id="deleteId" placeholder="ID">
+    <button onclick="deleteRecord()">Удалить</button>
+
+    <h3>Список записей</h3>
+    <button onclick="getRecords()">Обновить список</button>
+    <ul id="records"></ul>
+
+    <script>
+        async function getRecords() {
+            let response = await fetch('/api/db');
+            let data = await response.json();
+            document.getElementById('records').innerHTML = data.map(r => `<li>${r.id}: ${r.name} (${r.bday})</li>`).join('');
+        }
+
+        async function addRecord() {
+            let name = document.getElementById('name').value;
+            let bday = document.getElementById('bday').value;
+            let response = await fetch('/api/db', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ name, bday })
+            });
+            await response.json();
+            getRecords();
+        }
+
+        async function updateRecord() {
+            let id = document.getElementById('updateId').value;
+            let name = document.getElementById('updateName').value;
+            let bday = document.getElementById('updateBday').value;
+            let response = await fetch('/api/db', {
+                method: 'PUT',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ id: Number(id), name, bday })
+            });
+            await response.json();
+            getRecords();
+        }
+
+        async function deleteRecord() {
+            let id = document.getElementById('deleteId').value;
+            let response = await fetch(`/api/db?id=${id}`, { method: 'DELETE' });
+            await response.json();
+            getRecords();
+        }
+
+        getRecords();
+    </script>
+</body>
+</html>

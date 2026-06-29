@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Static File Server</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Static File Server</h1>
+
+    <h2>Image:</h2>
+    <img src="/static/bird.jpg" alt="Sample Image">
+
+    <h2>Video:</h2>
+    <video controls>
+        <source src="/static/videoo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <h2>Download DOCX:</h2>
+    <a href="/static/file.docx" download>Download DOCX File</a>
+
+    <h2>JSON Data:</h2>
+    <div id="json-data"></div>
+
+    <h2>XML Data:</h2>
+    <div id="xml-data"></div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

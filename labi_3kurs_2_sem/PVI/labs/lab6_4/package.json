@@ -1,0 +1,14 @@
+{
+    "name": "pavelm0603pack",
+    "version": "1.0.1",
+    "description": "Модуль для отправки email с помощью Nodemailer",
+    "main": "m0603.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "author": "Pavel",
+    "license": "MIT",
+    "dependencies": {
+        "nodemailer": "^6.10.0"
+    }
+}

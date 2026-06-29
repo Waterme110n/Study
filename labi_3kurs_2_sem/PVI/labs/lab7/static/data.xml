@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <name>Pavel</name>
+    <age>19</age>
+    <email>pavel@example.com</email>
+    <address>
+        <street>123 Main St</street>
+        <city>Anytown</city>
+        <zip>12345</zip>
+    </address>
+    <hobbies>
+        <hobby>reading</hobby>
+        <hobby>cycling</hobby>
+        <hobby>photography</hobby>
+    </hobbies>
+</person>

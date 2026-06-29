@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+
+img {
+    max-width: 400px; 
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+
+video {
+    max-width: 500px; 
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+
+#json-data, #xml-data {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    background-color: #eee;
+    padding: 10px;
+    margin-top: 20px;
+    font-family: monospace;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
